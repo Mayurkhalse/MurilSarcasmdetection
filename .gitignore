@@ -1,0 +1,38 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Large Model Weights (Hosted on Hugging Face: Mayurkhalse/muril-sarcasm-detector)
+trained_muril_sarcasm/
+*.safetensors
+*.bin
+checkpoint-*/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs & temp files
+*.log
+logs/
+.system_generated/
+
+# Environment variables & secrets
+.env
+*token*
+*.key
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
