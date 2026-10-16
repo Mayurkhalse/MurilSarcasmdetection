@@ -24,6 +24,7 @@ The fine-tuned model is deployed and publicly accessible on the Hugging Face Mod
   - [1. Fast Inference in Python](#1-fast-inference-in-python)
   - [2. Interactive & Benchmark Testing (`test_sarcasm.py`)](#2-interactive--benchmark-testing-test_sarcasmpy)
 - [Repository Structure](#repository-structure)
+- [REST API Server (`server/`)](#rest-api-server-server)
 - [Local Setup & Installation](#local-setup--installation)
 
 ---
@@ -157,8 +158,9 @@ python test_sarcasm.py "Wah kya mast scheme hai, 21 din me paisa double!"
 
 ## 📂 Repository Structure
 
-| File | Description |
+| File / Folder | Description |
 | :--- | :--- |
+| **[`server/`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/server/)** | Production FastAPI REST microservice with Dockerfile and Swagger docs. |
 | **[`test_sarcasm.py`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/test_sarcasm.py)** | Evaluates and benchmarks the model directly from the Hugging Face hub. |
 | **[`simple_example.py`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/simple_example.py)** | Minimal standalone script demonstrating inference with local or remote weights. |
 | **[`sarcasm_detection.py`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/sarcasm_detection.py)** | Full feature-rich class providing training, prediction, and interactive CLI modes. |
@@ -171,12 +173,34 @@ python test_sarcasm.py "Wah kya mast scheme hai, 21 din me paisa double!"
 
 ---
 
+## 🌐 REST API Server (`server/`)
+
+We have packaged the model into a standalone, production-ready **FastAPI** service located in the [`server/`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/server/) directory.
+
+### Quick Start:
+```bash
+# Install server dependencies
+pip install -r server/requirements.txt
+
+# Run the API server
+cd server
+python app.py
+```
+
+- **Interactive Swagger Documentation**: `http://localhost:8000/docs`
+- **Predict Endpoint**: `POST http://localhost:8000/predict`
+- **Batch Predict Endpoint**: `POST http://localhost:8000/predict/batch`
+
+For Docker deployment instructions and exposing the API publicly for free (via Cloudflare Tunnels), refer to [`server/README.md`](file:///c:/Users/Rajendra/Documents/Sentiment%20analysis/MURIL/server/README.md).
+
+---
+
 ## 💻 Local Setup & Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/muril-sarcasm-detector.git
-   cd muril-sarcasm-detector
+   git clone https://github.com/Mayurkhalse/MurilSarcasmdetection.git
+   cd MurilSarcasmdetection
    ```
 
 2. **Create and activate a virtual environment:**
@@ -191,7 +215,7 @@ python test_sarcasm.py "Wah kya mast scheme hai, 21 din me paisa double!"
    pip install -r requirements.txt
    ```
 
-4. **Run the model:**
+4. **Run live inference from Hugging Face:**
    ```bash
    python test_sarcasm.py
    ```
