@@ -6,6 +6,8 @@ ENV/
 
 # Large Model Weights (Hosted on Hugging Face: Mayurkhalse/muril-sarcasm-detector)
 trained_muril_sarcasm/
+500kdataTrained_muril_sarcasm/
+trained_muril_500k/
 *.safetensors
 *.bin
 checkpoint-*/
