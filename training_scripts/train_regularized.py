@@ -19,9 +19,25 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
 
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(base_dir, ".."))
+
 # 1. Load 1,000-sample dataset
-print("[*] Loading dataset: sarcasm_1000_dataset.csv...")
-df = pd.read_csv("sarcasm_1000_dataset.csv")
+csv_candidates = [
+    os.path.join(project_root, "datasets", "sarcasm_1000_dataset.csv"),
+    os.path.join(project_root, "sarcasm_1000_dataset.csv"),
+    os.path.join(base_dir, "sarcasm_1000_dataset.csv"),
+    "sarcasm_1000_dataset.csv"
+]
+csv_path = next((p for p in csv_candidates if os.path.exists(p)), "sarcasm_1000_dataset.csv")
+
+print(f"[*] Loading dataset: {csv_path}...")
+df = pd.read_csv(csv_path)
+
+# Handle label column name ('label' or 'sarcasm_label')
+label_col = "sarcasm_label" if "sarcasm_label" in df.columns else "label"
+df["label"] = df[label_col].astype(int)
 
 # 80/20 Stratified Split (800 train / 200 validation)
 train_df, val_df = train_test_split(
@@ -126,7 +142,8 @@ for epoch in range(1, num_epochs + 1):
     )
 
 # 5. Save Model
-output_dir = "./trained_muril_sarcasm"
+output_dir = os.path.join(project_root, "models", "trained_muril_sarcasm")
+os.makedirs(output_dir, exist_ok=True)
 print(f"[*] Saving regularized model to {output_dir}...")
 model.save_pretrained(output_dir)
 tokenizer.save_pretrained(output_dir)

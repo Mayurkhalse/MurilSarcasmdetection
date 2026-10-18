@@ -7,11 +7,21 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
 
 # 1. Load MuRIL Tokenizer and Model
-# Pointing to your newly fine-tuned MuRIL sarcasm model:
-model_name = "./trained_muril_sarcasm"
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(base_dir, ".."))
+
+model_candidates = [
+    os.path.join(project_root, "models", "trained_muril_sarcasm"),
+    os.path.join(project_root, "models", "500kdataTrained_muril_sarcasm"),
+    os.path.join(base_dir, "trained_muril_sarcasm"),
+    "trained_muril_sarcasm",
+    "Mayurkhalse/muril-sarcasm-detector"
+]
+model_name = next((p for p in model_candidates if os.path.exists(p)), "Mayurkhalse/muril-sarcasm-detector")
 id2label = {0: "Not Sarcastic", 1: "Sarcastic"}
 
-print("Loading tokenizer and model...")
+print(f"Loading tokenizer and model from: {model_name}...")
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2)
 model.eval()

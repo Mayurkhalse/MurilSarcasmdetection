@@ -1,0 +1,3 @@
+Model Name,Samples,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Sarcasm Class F1 (%),Time (s),Throughput (samples/s)
+500kdataTrained_muril_sarcasm,50,94.0,95.0,93.48,93.88,93.02,1.1,45.6
+trained_muril_sarcasm,50,52.0,55.09,53.95,50.0,60.0,1.13,44.4

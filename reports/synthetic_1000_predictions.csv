@@ -1,0 +1,1001 @@
+text,sarcasm_label,predicted_label,confidence_pct,sarcasm_prob_pct,is_correct
+Passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.,0,0,94.93,5.07,True
+"Oh wow, what a marvelous day to wear brand new white sneakers, especially with stepping directly into an ankle-deep puddle of mud!",1,0,94.99,5.01,False
+"Kudos to the building maintenance team for shutting off the water supply with zero prior notice, truly impeccable coordination!",1,0,94.04,5.96,False
+"Oh wow, oh sure, let's keep opening fifty Chrome tabs on 4GB RAM, that will definitely make the browser lightning fast.",1,0,94.85,5.15,False
+"What a perfect day to drive to an important job interview, especially with a surprise puncture on the busiest highway!",1,0,95.26,4.74,False
+"Furthermore, i had a positive experience with the auto repair workshop; the staff was honest and transparent and the pricing was fair.",0,0,95.27,4.73,True
+"Honestly, i absolutely love how my smartphone battery drops from 80% to 1% in four minutes, it makes staying connected so convenient.",1,0,94.27,5.73,False
+Truly magnificent: i just love receiving promotional emails from websites I visited once five years ago.,1,0,78.01,21.99,False
+I love waking up to twenty spam phone calls about car insurance I never asked for.,1,0,94.11,5.89,False
+"How wonderful! kudos to the building maintenance team for shutting off the water supply with zero prior notice, truly impeccable coordination!",1,0,92.9,7.1,False
+How wonderful! because who doesn't want to re-enter all personal information twenty times right after the government portal crashed again?,1,0,88.1,11.9,False
+It was noted that students enrolled in Modern World History must complete the analytical term essay by the beginning of November.,0,0,93.86,6.14,True
+Passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.,0,0,94.81,5.19,True
+"According to the official report, the new encryption protocol provides end-to-end data security which improves user privacy across the network.",0,0,95.23,4.77,True
+Truly magnificent: i love how the weather forecast promised clear sunny skies right before a thunderstorm hit.,1,0,95.22,4.78,False
+Passengers traveling on the local feeder buses should note that connections to main subway terminals are guaranteed during morning hours.,0,0,94.61,5.39,True
+"Oh wow, oh delightful, the train is only eighty minutes behind schedule today.",1,0,95.2,4.8,False
+"According to the official report, our team achieved all key performance milestones for the third financial quarter.",0,0,95.24,4.76,True
+"Honestly, oh sure, let's add ten more managers to the team, that will definitely double our coding productivity.",1,0,95.09,4.91,False
+The restaurant served delicious authentic pasta with polite and attentive service.,0,0,94.59,5.41,True
+How wonderful! nothing says 'customers come first' quite like leaving people on hold for seventy minutes with elevator music.,1,1,93.18,93.18,True
+"In addition, the package was carefully delivered to the front door within the promised delivery window.",0,0,94.26,5.74,True
+The coffee shop offers a quiet study environment with fast and reliable Wi-Fi.,0,0,94.97,5.03,True
+"Kudos to the rideshare driver for driving in the opposite direction for twenty minutes, truly flawless navigation!",1,0,95.2,4.8,False
+"Furthermore, the new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.",0,0,94.96,5.04,True
+"Oh sure, let's keep opening fifty Chrome tabs on 4GB RAM, that will definitely make the browser lightning fast.",1,0,95.09,4.91,False
+"How wonderful! what a marvelous day to wear brand new white sneakers, especially with stepping directly into an ankle-deep puddle of mud!",1,0,95.0,5.0,False
+"In addition, the new microservices framework provides modular service isolation which improves fault tolerance during traffic spikes.",0,0,94.95,5.05,True
+"According to the official report, all attendees received a copy of the meeting minutes and action items via email.",0,0,94.92,5.08,True
+"According to the official report, students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.",0,0,94.83,5.17,True
+"For your information, the coffee shop offers a quiet study environment with fast and reliable Wi-Fi.",0,0,95.1,4.9,True
+The new microservices framework provides modular service isolation which improves fault tolerance during traffic spikes.,0,0,95.13,4.87,True
+"Kudos to the municipal corporation for digging up the newly paved road three days after finishing it, truly outstanding planning!",1,0,95.13,4.87,False
+"Oh wow, because who doesn't want to re-enter all personal information twenty times right after the government portal crashed again?",1,0,87.95,12.05,False
+"How wonderful! oh sure, let's keep opening fifty Chrome tabs on 4GB RAM, that will definitely make the browser lightning fast.",1,0,95.07,4.93,False
+It was noted that the operations department successfully optimized the warehouse logistics network for faster retail delivery.,0,0,94.94,5.06,True
+The city museum offers free admission to students and seniors on the first Sunday of each month.,0,0,95.01,4.99,True
+"Truly magnificent: kudos to the courier company for tossing my fragile glass package directly over a six-foot gate, truly gentle handling!",1,0,93.26,6.74,False
+"According to the official report, students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.",0,0,94.66,5.34,True
+"Oh wow, nothing says luxury dining like a lukewarm burger delivered 90 minutes late.",1,0,81.39,18.61,False
+"According to the official report, all new employees must complete the online cybersecurity safety training module.",0,0,95.25,4.75,True
+"How wonderful! i absolutely love how this banking application locks my debit card whenever I try to buy groceries, it makes paying bills so flawless.",1,0,95.27,4.73,False
+It was noted that students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.,0,0,94.7,5.3,True
+"In addition, passengers traveling on the light rail transit should note that contactless payment cards are accepted at all turnstile gates.",0,0,95.0,5.0,True
+"Furthermore, the train arrived exactly on schedule at platform number four this morning.",0,0,94.94,5.06,True
+Because who doesn't want to fill out a forty-page feedback questionnaire right after getting denied an insurance claim?,1,0,95.15,4.85,False
+"According to the official report, i had a seamless experience with the car rental agency; the staff was prompt and organized and vehicle pickup took under five minutes.",0,0,95.22,4.78,True
+"Truly magnificent: oh fantastic, our project manager decided to add five major deliverables right when the sprint was already finished.",1,1,70.51,70.51,True
+"How wonderful! oh sure, let's leave the windows wide open during a sandstorm, that will definitely keep the living room pristine and clean.",1,0,95.15,4.85,False
+"Furthermore, students enrolled in Linear Algebra must complete the problem set exercises by next Wednesday morning.",0,0,94.54,5.46,True
+Truly magnificent: nothing says luxury dining like a lukewarm burger delivered 90 minutes late.,1,1,54.47,54.47,True
+"In addition, passengers traveling on the cross-town bus route should note that new electric buses have been introduced to reduce emissions.",0,0,94.99,5.01,True
+"For your information, passengers traveling on the city metro system should note that trains are equipped with air conditioning and digital display maps.",0,0,95.24,4.76,True
+"For your information, the train arrived exactly on schedule at platform number four this morning.",0,0,95.09,4.91,True
+"In addition, the new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.",0,0,95.22,4.78,True
+How wonderful! nothing says reliable public transit like buses that only show up when three come together.,1,0,87.34,12.66,False
+"In addition, the new caching architecture provides instant memory lookups which improves page load latency for mobile users.",0,0,94.99,5.01,True
+"Oh wow, kudos to the restaurant chef for substituting fresh garlic with burning charcoal, truly culinary innovation!",1,0,94.61,5.39,False
+"Furthermore, the laptop battery provides up to nine hours of continuous video playback on a full charge.",0,0,94.84,5.16,True
+"How wonderful! oh sure, let's ignore the strange knocking sound under the car hood, that will definitely make the engine run like new.",1,0,95.21,4.79,False
+"Furthermore, i had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.",0,0,95.26,4.74,True
+"Truly magnificent: brilliant strategy, cutting the customer support budget to boost customer satisfaction scores.",1,0,94.1,5.9,False
+"Furthermore, passengers traveling on the local feeder buses should note that connections to main subway terminals are guaranteed during morning hours.",0,0,94.57,5.43,True
+It was noted that the company offers comprehensive health insurance and retirement planning benefits.,0,0,95.15,4.85,True
+"According to the official report, passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.",0,0,95.05,4.95,True
+The research team published their findings in a reputable peer-reviewed scientific journal.,0,0,95.27,4.73,True
+"In addition, the annual company financial audit was successfully completed without any discrepancies.",0,0,94.94,5.06,True
+"Honestly, because who doesn't want to pay twenty dollars for airport parking right after waiting in a security queue for three hours?",1,0,93.18,6.82,False
+Truly magnificent: i just adore when the fire alarm goes off during a cold shower.,1,0,94.24,5.76,False
+"According to the official report, the new caching architecture provides instant memory lookups which improves page load latency for mobile users.",0,0,95.09,4.91,True
+"Furthermore, passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.",0,0,95.04,4.96,True
+"What a stellar day to enjoy my morning coffee, especially with spilling it straight onto my freshly ironed shirt!",1,0,95.2,4.8,False
+"Oh wow, nothing like a flat tire in the pouring rain to make a Monday morning complete.",1,0,94.9,5.1,False
+"In addition, the airline staff promptly assisted all passengers with their boarding luggage.",0,0,95.0,5.0,True
+How wonderful! i really appreciate when the waiter disappears for forty minutes after bringing the bill.,1,0,94.97,5.03,False
+"For your information, i had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.",0,0,95.27,4.73,True
+"In addition, the restaurant served delicious authentic pasta with polite and attentive service.",0,0,94.63,5.37,True
+"Brilliant strategy, cutting the customer support budget to boost customer satisfaction scores.",1,0,95.17,4.83,False
+"Furthermore, i had a seamless experience with the car rental agency; the staff was prompt and organized and vehicle pickup took under five minutes.",0,0,95.2,4.8,True
+"Superb parallel parking job, taking up three parking slots at the crowded mall.",1,0,94.03,5.97,False
+"In addition, the company offers comprehensive health insurance and retirement planning benefits.",0,0,95.24,4.76,True
+"Truly magnificent: oh magnificent, our manager decided to demand a status report right when the server was literally on fire.",1,0,85.74,14.26,False
+"For your information, the new continuous integration pipeline provides automated unit and integration testing which improves release cycle stability.",0,0,95.18,4.82,True
+"Oh wow, nothing says 'customers come first' quite like leaving people on hold for seventy minutes with elevator music.",1,1,94.37,94.37,True
+Students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.,0,0,95.14,4.86,True
+What an honor to receive a generic virtual thank-you badge after working sixty hours overtime.,1,0,95.14,4.86,False
+"Furthermore, students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.",0,0,94.56,5.44,True
+"According to the official report, the restaurant served delicious authentic pasta with polite and attentive service.",0,0,94.73,5.27,True
+How wonderful! because who doesn't want to argue with an automated bot that repeats the same FAQ right after spending thirty minutes troubleshooting?,1,0,91.78,8.22,False
+"Truly magnificent: kudos to the municipal corporation for digging up the newly paved road three days after finishing it, truly outstanding planning!",1,0,72.46,27.54,False
+"According to the official report, students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.",0,0,94.33,5.67,True
+"Truly magnificent: oh brilliant, our department head decided to schedule an emergency meeting right when we were all walking out the door.",1,0,66.73,33.27,False
+Great job scheduling our server maintenance right during Black Friday peak hours.,1,0,90.63,9.37,False
+"Honestly, great job scheduling our server maintenance right during Black Friday peak hours.",1,0,72.47,27.53,False
+"How wonderful! oh fantastic, another mandatory team bonding workshop on Saturday morning.",1,0,95.06,4.94,False
+It was noted that all attendees received a copy of the meeting minutes and action items via email.,0,0,93.44,6.56,True
+"In addition, the operations department successfully optimized the warehouse logistics network for faster retail delivery.",0,0,95.14,4.86,True
+"In addition, the online payment gateway processed the credit card transaction securely and instantly.",0,0,95.24,4.76,True
+"Truly magnificent: oh fantastic, another mandatory team bonding workshop on Saturday morning.",1,0,70.46,29.54,False
+Truly magnificent: nothing says 'zero hidden fees' quite like charging a twenty-dollar processing fee for an online ticket.,1,0,93.42,6.58,False
+"According to the official report, please keep your seatbelts fastened while the aircraft taxiing to the gate.",0,0,94.52,5.48,True
+How wonderful! i truly enjoy when my flight is delayed four hours so I miss my connecting flight.,1,0,95.25,4.75,False
+"How wonderful! oh stellar, our tech lead decided to refactor the entire codebase right when we were preparing for a live demo.",1,0,95.15,4.85,False
+"Truly magnificent: i absolutely love how this wireless mouse randomly disconnects every three minutes, it makes gaming so thrilling.",1,0,94.64,5.36,False
+"Furthermore, today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.",0,0,92.89,7.11,True
+"In addition, the procurement department successfully negotiated volume discount agreements for hardware supplies.",0,0,94.82,5.18,True
+"Truly magnificent: what a lovely day to catch up on much-needed sleep, especially with the upstairs neighbors moving furniture at 3 AM!",1,1,79.56,79.56,True
+"Honestly, because who doesn't want to argue with an automated bot that repeats the same FAQ right after spending thirty minutes troubleshooting?",1,0,71.34,28.66,False
+"In addition, please keep your seatbelts fastened while the aircraft taxiing to the gate.",0,0,94.34,5.66,True
+"According to the official report, today's forecast calls for warm sunshine and calm afternoon winds in the southern peninsula with temperatures around 28 degrees Celsius.",0,0,95.19,4.81,True
+"According to the official report, students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.",0,0,94.74,5.26,True
+"In addition, passengers traveling on the city metro system should note that trains are equipped with air conditioning and digital display maps.",0,0,95.15,4.85,True
+It was noted that passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.,0,0,94.37,5.63,True
+"Honestly, i just love having to enter an OTP, a password, a fingerprint, and a captcha to view my bus pass.",1,0,95.21,4.79,False
+"What a treat, watching 3 unskippable thirty-second ads before a five-second video clip.",1,0,95.22,4.78,False
+"According to the official report, the legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.",0,0,95.21,4.79,True
+"For your information, the research department successfully analyzed user behavioral metrics for the application redesign.",0,0,95.23,4.77,True
+"In addition, today's forecast calls for bright sunny weather and clear visibility in the coastal plain with temperatures around 26 degrees Celsius.",0,0,95.2,4.8,True
+It was noted that passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.,0,0,94.62,5.38,True
+"For your information, the new battery management system provides balanced cell thermal regulation which improves long-term hardware lifespan.",0,0,94.14,5.86,True
+"How wonderful! i absolutely love how my smartphone battery drops from 80% to 1% in four minutes, it makes staying connected so convenient.",1,0,94.86,5.14,False
+"According to the official report, today's forecast calls for bright sunny weather and clear visibility in the coastal plain with temperatures around 26 degrees Celsius.",0,0,95.2,4.8,True
+It was noted that the coffee shop offers a quiet study environment with fast and reliable Wi-Fi.,0,0,94.33,5.67,True
+"Honestly, i love waking up to twenty spam phone calls about car insurance I never asked for.",1,0,93.02,6.98,False
+"Kudos to the web developer for making every button on the landing page completely unclickable, truly visionary UX design!",1,0,90.93,9.07,False
+"Oh wow, i truly enjoy when my flight is delayed four hours so I miss my connecting flight.",1,0,95.26,4.74,False
+Truly magnificent: nothing like a flat tire in the pouring rain to make a Monday morning complete.,1,0,88.53,11.47,False
+"I absolutely love how this streaming app buffers continuously during the final minute of the match, it makes watching sports so immersive.",1,0,95.21,4.79,False
+"For your information, i had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.",0,0,95.27,4.73,True
+"According to the official report, the new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.",0,0,95.23,4.77,True
+"For your information, the mobile application update introduces automatic dark mode and bug fixes.",0,0,95.18,4.82,True
+"Oh wow, brilliant idea to host an outdoor corporate retreat in 42-degree summer heat.",1,0,94.59,5.41,False
+"Honestly, oh marvelous, our scrum master decided to schedule a two-hour retrospective right when we had hard release deadlines.",1,0,92.91,7.09,False
+Nothing says 'guaranteed customer satisfaction' quite like having a strict no-refunds and no-returns policy on damaged goods.,1,0,93.96,6.04,False
+"Oh wow, nothing says 'eco-friendly packaging' quite like wrapping a tiny plastic pen inside three layers of cardboard and bubble wrap.",1,0,93.42,6.58,False
+"Honestly, oh charming, our VP decided to announce weekend overtime right when everyone had holiday travel plans.",1,0,83.84,16.16,False
+"For your information, i had a seamless experience with the car rental agency; the staff was prompt and organized and vehicle pickup took under five minutes.",0,0,95.21,4.79,True
+"Honestly, nothing says reliable public transit like buses that only show up when three come together.",1,1,79.86,79.86,True
+The annual company financial audit was successfully completed without any discrepancies.,0,0,95.02,4.98,True
+"Honestly, kudos to the local telecom operator for providing zero cell signal inside the city center, truly a technological marvel!",1,0,94.84,5.16,False
+"According to the official report, i had a positive experience with the auto repair workshop; the staff was honest and transparent and the pricing was fair.",0,0,95.27,4.73,True
+"According to the official report, the new database cluster provides automated real-time failover support which improves overall platform uptime.",0,0,95.1,4.9,True
+"Furthermore, the coffee shop offers a quiet study environment with fast and reliable Wi-Fi.",0,0,94.81,5.19,True
+"Furthermore, the doctor carefully reviewed the blood test results and prescribed appropriate medication.",0,0,94.87,5.13,True
+"Truly magnificent: kudos to the restaurant chef for substituting fresh garlic with burning charcoal, truly culinary innovation!",1,0,91.27,8.73,False
+"Furthermore, the human resources department successfully onboarded twenty new software engineers for the expansion program.",0,0,93.47,6.53,True
+"According to the official report, the doctor carefully reviewed the blood test results and prescribed appropriate medication.",0,0,95.09,4.91,True
+"Truly magnificent: i just love having to enter an OTP, a password, a fingerprint, and a captcha to view my bus pass.",1,0,94.78,5.22,False
+"Oh stellar, our tech lead decided to refactor the entire codebase right when we were preparing for a live demo.",1,0,95.1,4.9,False
+"According to the official report, today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.",0,0,95.0,5.0,True
+Today's forecast calls for warm sunshine and calm afternoon winds in the southern peninsula with temperatures around 28 degrees Celsius.,0,0,95.22,4.78,True
+"According to the official report, the procurement department successfully negotiated volume discount agreements for hardware supplies.",0,0,95.14,4.86,True
+"In addition, passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.",0,0,94.83,5.17,True
+"Oh wow, what a treat, watching 3 unskippable thirty-second ads before a five-second video clip.",1,0,95.19,4.81,False
+"Oh wow, brilliant strategy, cutting the customer support budget to boost customer satisfaction scores.",1,0,95.16,4.84,False
+"Honestly, i absolutely love how this navigation app directs me straight into a massive traffic jam, it makes commuting so relaxing.",1,0,95.15,4.85,False
+"In addition, today's forecast calls for a mild evening breeze following an afternoon shower in the central harbor with temperatures around 21 degrees Celsius.",0,0,95.21,4.79,True
+"In addition, the customer success department successfully resolved over five hundred customer tickets for the quarterly evaluation.",0,0,93.88,6.12,True
+The company offers comprehensive health insurance and retirement planning benefits.,0,0,95.25,4.75,True
+Please remember to submit your monthly expense receipts before next Monday.,0,0,94.95,5.05,True
+"For your information, passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.",0,0,95.09,4.91,True
+How wonderful! nothing says 'premium airline service' quite like charging fifty dollars for a small carry-on bag and a lukewarm cup of water.,1,0,92.35,7.65,False
+"Oh wow, oh sure, let's buy cheap knockoff phone chargers online, that will definitely safeguard our expensive battery life.",1,0,95.2,4.8,False
+"What a delightful day to host an outdoor barbecue, especially with swarms of aggressive mosquitoes and sudden downpours!",1,0,95.06,4.94,False
+Passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.,0,0,94.88,5.12,True
+"Oh wow, because who doesn't want to argue with an automated bot that repeats the same FAQ right after spending thirty minutes troubleshooting?",1,0,91.92,8.08,False
+"Honestly, because who doesn't want to pay extra baggage fees right after the airline already lost two of my suitcases?",1,0,92.42,7.58,False
+"Honestly, oh fantastic, another mandatory team bonding workshop on Saturday morning.",1,0,94.14,5.86,False
+"Oh wow, i absolutely love how this new operating system crashes whenever I open two browser tabs, it makes multitasking so seamless.",1,0,95.12,4.88,False
+"Honestly, kudos to the airline crew for announcing a departure delay five minutes after scheduled takeoff, truly top-tier punctuality!",1,0,93.39,6.61,False
+"Truly magnificent: what a wonderful day to enjoy a peaceful quiet evening, especially with endless loud car alarms echoing through the alley!",1,0,93.73,6.27,False
+"For your information, students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.",0,0,94.39,5.61,True
+"For your information, today's forecast calls for overcast conditions with moderate humidity in the eastern district with temperatures around 24 degrees Celsius.",0,0,95.13,4.87,True
+The online payment gateway processed the credit card transaction securely and instantly.,0,0,95.26,4.74,True
+"Honestly, because who doesn't want to listen to automated elevator music for another hour right after being disconnected twice?",1,1,52.59,52.59,True
+"Furthermore, the new encryption protocol provides end-to-end data security which improves user privacy across the network.",0,0,95.21,4.79,True
+"Furthermore, passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.",0,0,93.83,6.17,True
+"Truly magnificent: what a marvelous day to wear brand new white sneakers, especially with stepping directly into an ankle-deep puddle of mud!",1,0,91.17,8.83,False
+"Truly magnificent: oh sure, let's skip reading the manual entirely, that will definitely make assembling this complex wardrobe easy.",1,1,86.42,86.42,True
+"Oh wow, i love how the weather forecast promised clear sunny skies right before a thunderstorm hit.",1,0,95.29,4.71,False
+"Honestly, oh sure, let's drink four energy drinks at midnight, that will definitely help me wake up fresh and well-rested at 6 AM.",1,0,93.76,6.24,False
+"According to the official report, the new continuous integration pipeline provides automated unit and integration testing which improves release cycle stability.",0,0,95.13,4.87,True
+"In addition, the new encryption protocol provides end-to-end data security which improves user privacy across the network.",0,0,95.21,4.79,True
+"For your information, students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.",0,0,94.02,5.98,True
+"How wonderful! i absolutely love how this cloud backup tool quietly deleted my newest presentation files, it makes working remotely so reliable.",1,0,94.8,5.2,False
+Regular cardiovascular exercise and balanced nutrition contribute to long-term health.,0,0,95.24,4.76,True
+"Furthermore, the research department successfully analyzed user behavioral metrics for the application redesign.",0,0,95.26,4.74,True
+How wonderful! because who doesn't want to deal with six layers of bureaucratic paperwork right after trying to get a replacement identity card?,1,0,94.49,5.51,False
+"Kudos to the courier company for tossing my fragile glass package directly over a six-foot gate, truly gentle handling!",1,0,95.06,4.94,False
+The customer success department successfully resolved over five hundred customer tickets for the quarterly evaluation.,0,0,93.93,6.07,True
+"In addition, students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.",0,0,94.6,5.4,True
+"In addition, the city museum offers free admission to students and seniors on the first Sunday of each month.",0,0,94.76,5.24,True
+"For your information, the new content delivery network provides distributed regional edge nodes which improves video streaming performance.",0,0,95.2,4.8,True
+How wonderful! nothing says luxury dining like a lukewarm burger delivered 90 minutes late.,1,0,89.98,10.02,False
+Truly magnificent: i love waking up to twenty spam phone calls about car insurance I never asked for.,1,1,80.45,80.45,True
+Because who doesn't want to listen to automated elevator music for another hour right after being disconnected twice?,1,0,86.58,13.42,False
+"Oh wow, what a lovely day to catch up on much-needed sleep, especially with the upstairs neighbors moving furniture at 3 AM!",1,0,88.83,11.17,False
+"Oh wow, what an honor to receive a generic virtual thank-you badge after working sixty hours overtime.",1,0,95.0,5.0,False
+I had a positive experience with the auto repair workshop; the staff was honest and transparent and the pricing was fair.,0,0,95.27,4.73,True
+"Oh wow, i just adore when the fire alarm goes off during a cold shower.",1,0,95.28,4.72,False
+"How wonderful! oh sure, let's cut the software testing phase by half, that will definitely ensure a bug-free production release.",1,0,94.97,5.03,False
+It was noted that the research department successfully analyzed user behavioral metrics for the application redesign.,0,0,95.16,4.84,True
+"Oh wow, what a brilliant move to replace our entire technical support team with a broken chatbot.",1,0,95.23,4.77,False
+"Oh wow, i love waking up to twenty spam phone calls about car insurance I never asked for.",1,0,94.49,5.51,False
+"In addition, students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.",0,0,94.13,5.87,True
+"In addition, passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.",0,0,94.9,5.1,True
+"Honestly, what a brilliant move to replace our entire technical support team with a broken chatbot.",1,0,95.18,4.82,False
+How wonderful! nothing says 'eco-friendly packaging' quite like wrapping a tiny plastic pen inside three layers of cardboard and bubble wrap.,1,0,94.3,5.7,False
+"Furthermore, today's forecast calls for intermittent light rain showers in the afternoon in the metropolitan area with temperatures around 19 degrees Celsius.",0,0,94.95,5.05,True
+"Oh wow, i absolutely love how this streaming app buffers continuously during the final minute of the match, it makes watching sports so immersive.",1,0,95.21,4.79,False
+"Honestly, kudos to the online retailer for shipping one left shoe and one completely different sneaker, truly exceptional packing!",1,0,88.84,11.16,False
+"In addition, students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.",0,0,94.16,5.84,True
+"How wonderful! oh look, another password policy requiring hieroglyphs and the name of my first pet.",1,0,95.04,4.96,False
+"Honestly, oh delightful, our client decided to request an entire redesign right when we were scheduled to deploy to production.",1,0,88.84,11.16,False
+"In addition, our team achieved all key performance milestones for the third financial quarter.",0,0,95.22,4.78,True
+"Furthermore, the hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,94.93,5.07,True
+"How wonderful! oh wonderful, another software update that moved every single button I use daily.",1,0,94.87,5.13,False
+"According to the official report, the research team published their findings in a reputable peer-reviewed scientific journal.",0,0,95.25,4.75,True
+All attendees received a copy of the meeting minutes and action items via email.,0,0,94.85,5.15,True
+Please keep your seatbelts fastened while the aircraft taxiing to the gate.,0,0,94.45,5.55,True
+"Honestly, nothing screams productivity like an hour-long meeting discussing our next meeting.",1,1,57.25,57.25,True
+"Furthermore, passengers traveling on the cross-town bus route should note that new electric buses have been introduced to reduce emissions.",0,0,95.03,4.97,True
+"Furthermore, regular cardiovascular exercise and balanced nutrition contribute to long-term health.",0,0,95.23,4.77,True
+"Furthermore, the mobile application update introduces automatic dark mode and bug fixes.",0,0,95.14,4.86,True
+"According to the official report, students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.",0,0,95.14,4.86,True
+"Truly magnificent: what a splendid day to study for final semester exams, especially with the building power going out for ten straight hours!",1,1,56.88,56.88,True
+"For your information, today's forecast calls for bright sunny weather and clear visibility in the coastal plain with temperatures around 26 degrees Celsius.",0,0,95.26,4.74,True
+Nothing says 'customers come first' quite like leaving people on hold for seventy minutes with elevator music.,1,1,91.15,91.15,True
+"Oh wow, nothing says 'unmatched hotel comfort' quite like a mattress that feels exactly like a slab of solid concrete.",1,0,94.96,5.04,False
+Truly magnificent: nothing says 'premium airline service' quite like charging fifty dollars for a small carry-on bag and a lukewarm cup of water.,1,1,73.78,73.78,True
+It was noted that i had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.,0,0,95.25,4.75,True
+"Honestly, oh superb, our director decided to call an all-hands call right when lunch was just delivered.",1,0,92.91,7.09,False
+"For your information, i had a positive experience with the auto repair workshop; the staff was honest and transparent and the pricing was fair.",0,0,95.27,4.73,True
+Congratulations on fixing one CSS margin by completely disabling user checkout.,1,1,73.9,73.9,True
+Passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.,0,0,94.27,5.73,True
+"I absolutely love how my smartphone battery drops from 80% to 1% in four minutes, it makes staying connected so convenient.",1,0,94.82,5.18,False
+"Oh great, high-speed fiber internet giving me a blazing 500 bytes per second.",1,0,91.1,8.9,False
+"Honestly, what a glorious day to go for a pleasant morning jog, especially with heavy construction drilling right outside my window!",1,0,93.59,6.41,False
+"Honestly, what a wonderful day to enjoy a peaceful quiet evening, especially with endless loud car alarms echoing through the alley!",1,0,94.51,5.49,False
+"Furthermore, we are pleased to announce our latest product update with improved security features.",0,0,95.15,4.85,True
+"Oh wow, oh sure, let's cut the software testing phase by half, that will definitely ensure a bug-free production release.",1,0,94.89,5.11,False
+Students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.,0,0,94.04,5.96,True
+"Oh wow, nothing says 'guaranteed customer satisfaction' quite like having a strict no-refunds and no-returns policy on damaged goods.",1,0,92.55,7.45,False
+Passengers traveling on the light rail transit should note that contactless payment cards are accepted at all turnstile gates.,0,0,94.99,5.01,True
+"Honestly, i love paying a hefty convenience fee to print my own concert tickets at home.",1,0,95.23,4.77,False
+"Truly magnificent: oh sure, let's leave the windows wide open during a sandstorm, that will definitely keep the living room pristine and clean.",1,0,63.16,36.84,False
+"Truly magnificent: what a stellar day to enjoy my morning coffee, especially with spilling it straight onto my freshly ironed shirt!",1,0,94.67,5.33,False
+"According to the official report, passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.",0,0,94.38,5.62,True
+"How wonderful! oh delightful, the train is only eighty minutes behind schedule today.",1,0,95.12,4.88,False
+"Oh wow, i just love having to enter an OTP, a password, a fingerprint, and a captcha to view my bus pass.",1,0,95.25,4.75,False
+"Honestly, i just adore when the fire alarm goes off during a cold shower.",1,0,95.25,4.75,False
+The new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.,0,0,95.08,4.92,True
+"For your information, please remember to submit your monthly expense receipts before next Monday.",0,0,94.9,5.1,True
+"How wonderful! what a delightful day to host an outdoor barbecue, especially with swarms of aggressive mosquitoes and sudden downpours!",1,0,94.79,5.21,False
+"Truly magnificent: kudos to the web developer for making every button on the landing page completely unclickable, truly visionary UX design!",1,1,89.3,89.3,True
+"How wonderful! oh delightful, our client decided to request an entire redesign right when we were scheduled to deploy to production.",1,0,92.47,7.53,False
+"Oh sure, let's schedule a three-hour meeting without any agenda, that will definitely solve all organizational bottlenecks.",1,0,95.17,4.83,False
+Truly magnificent: nothing says reliable public transit like buses that only show up when three come together.,1,1,94.59,94.59,True
+"How wonderful! i absolutely love how this food delivery app cancels my order after making me wait two hours, it makes ordering dinner so stress-free.",1,0,95.18,4.82,False
+"Oh perfect, my wireless headphones died thirty seconds into my run.",1,0,94.85,5.15,False
+"How wonderful! i just love having to enter an OTP, a password, a fingerprint, and a captcha to view my bus pass.",1,0,95.26,4.74,False
+"In addition, the hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,94.89,5.11,True
+"Honestly, what a lovely day to catch up on much-needed sleep, especially with the upstairs neighbors moving furniture at 3 AM!",1,0,62.96,37.04,False
+How wonderful! nothing screams productivity like an hour-long meeting discussing our next meeting.,1,0,90.44,9.56,False
+"Honestly, oh brilliant, our department head decided to schedule an emergency meeting right when we were all walking out the door.",1,0,94.65,5.35,False
+"For your information, the new machine learning pipeline provides faster batch inference throughput which improves data processing speeds.",0,0,95.21,4.79,True
+"Oh wow, oh delightful, our client decided to request an entire redesign right when we were scheduled to deploy to production.",1,0,92.75,7.25,False
+Nothing says 'eco-friendly packaging' quite like wrapping a tiny plastic pen inside three layers of cardboard and bubble wrap.,1,0,93.68,6.32,False
+"Truly magnificent: oh marvelous, our scrum master decided to schedule a two-hour retrospective right when we had hard release deadlines.",1,1,61.08,61.08,True
+Brilliant idea to host an outdoor corporate retreat in 42-degree summer heat.,1,0,94.72,5.28,False
+I had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.,0,0,95.26,4.74,True
+"For your information, today's forecast calls for a mild evening breeze following an afternoon shower in the central harbor with temperatures around 21 degrees Celsius.",0,0,95.25,4.75,True
+"Honestly, i just love receiving promotional emails from websites I visited once five years ago.",1,0,94.34,5.66,False
+"Truly magnificent: i absolutely love how this new operating system crashes whenever I open two browser tabs, it makes multitasking so seamless.",1,0,92.87,7.13,False
+It was noted that i had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.,0,0,95.25,4.75,True
+"According to the official report, i had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.",0,0,95.27,4.73,True
+"Furthermore, the finance department successfully completed the annual budgetary forecast for the upcoming fiscal year.",0,0,95.27,4.73,True
+"For your information, i had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.",0,0,95.24,4.76,True
+"Honestly, what a stellar day to enjoy my morning coffee, especially with spilling it straight onto my freshly ironed shirt!",1,0,95.06,4.94,False
+Nothing says 'premium airline service' quite like charging fifty dollars for a small carry-on bag and a lukewarm cup of water.,1,0,90.08,9.92,False
+"Honestly, because who doesn't want to fill out a forty-page feedback questionnaire right after getting denied an insurance claim?",1,0,94.5,5.5,False
+"Truly magnificent: what a masterclass in management, blaming junior developers for executive delays.",1,0,93.39,6.61,False
+"Honestly, i love how the weather forecast promised clear sunny skies right before a thunderstorm hit.",1,0,95.28,4.72,False
+"Honestly, what a treat, watching 3 unskippable thirty-second ads before a five-second video clip.",1,0,95.06,4.94,False
+"How wonderful! oh magnificent, our manager decided to demand a status report right when the server was literally on fire.",1,0,95.09,4.91,False
+"Oh wow, oh charming, our VP decided to announce weekend overtime right when everyone had holiday travel plans.",1,0,93.07,6.93,False
+Truly magnificent: great job scheduling our server maintenance right during Black Friday peak hours.,1,0,74.36,25.64,False
+How wonderful! because who doesn't want to re-iron an entire suit right after the airline crammed it into an overhead bin?,1,0,95.18,4.82,False
+It was noted that the new content delivery network provides distributed regional edge nodes which improves video streaming performance.,0,0,94.85,5.15,True
+"Oh wow, nothing says 'dedicated healthcare support' quite like making patients wait four hours past their appointment time.",1,0,92.9,7.1,False
+"Furthermore, the legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.",0,0,95.15,4.85,True
+Today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.,0,0,94.97,5.03,True
+"According to the official report, the municipal department completed the road resurfacing project ahead of schedule.",0,0,95.26,4.74,True
+"Honestly, oh fantastic, our project manager decided to add five major deliverables right when the sprint was already finished.",1,0,94.22,5.78,False
+"How wonderful! i absolutely love how this antivirus software slows down my workstation to a complete crawl, it makes productivity so enjoyable.",1,0,95.14,4.86,False
+"Furthermore, students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.",0,0,93.91,6.09,True
+How wonderful! what a brilliant move to replace our entire technical support team with a broken chatbot.,1,0,95.23,4.77,False
+Truly magnificent: nothing says 'customers come first' quite like leaving people on hold for seventy minutes with elevator music.,1,1,94.94,94.94,True
+"How wonderful! what a lovely day to catch up on much-needed sleep, especially with the upstairs neighbors moving furniture at 3 AM!",1,0,81.57,18.43,False
+How wonderful! thanks for explaining my own research paper back to me in the simplest possible terms.,1,0,95.22,4.78,False
+"In addition, all attendees received a copy of the meeting minutes and action items via email.",0,0,94.75,5.25,True
+"Oh wow, nothing says reliable public transit like buses that only show up when three come together.",1,0,60.49,39.51,False
+"Truly magnificent: oh splendid, our supervisor decided to assign another urgent priority right when my shift ended five minutes ago.",1,1,93.06,93.06,True
+Truly magnificent: nothing says 'guaranteed customer satisfaction' quite like having a strict no-refunds and no-returns policy on damaged goods.,1,1,86.59,86.59,True
+Truly magnificent: nothing says 'fast and reliable shipping' quite like taking three weeks to deliver a standard envelope across town.,1,1,92.89,92.89,True
+"Honestly, because who doesn't want to clean up water leaking from the ceiling right after getting home from a sixteen-hour double shift?",1,0,93.74,6.26,False
+How wonderful! because who doesn't want to stand in a crowded train with broken air conditioning right after working all day in summer heat?,1,0,94.29,5.71,False
+Today's forecast calls for a mild evening breeze following an afternoon shower in the central harbor with temperatures around 21 degrees Celsius.,0,0,95.24,4.76,True
+"For your information, the new caching architecture provides instant memory lookups which improves page load latency for mobile users.",0,0,95.07,4.93,True
+"Furthermore, the morning weather forecast indicates clear skies and light winds throughout the day.",0,0,95.07,4.93,True
+"In addition, the new electric bus fleet reduced commuter travel times across the metropolitan area.",0,0,95.2,4.8,True
+"Furthermore, i had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.",0,0,95.27,4.73,True
+"Kudos to the online retailer for shipping one left shoe and one completely different sneaker, truly exceptional packing!",1,0,94.81,5.19,False
+"Oh delightful, the train is only eighty minutes behind schedule today.",1,0,95.12,4.88,False
+"Oh delightful, our client decided to request an entire redesign right when we were scheduled to deploy to production.",1,0,93.53,6.47,False
+It was noted that the package was carefully delivered to the front door within the promised delivery window.,0,0,92.65,7.35,True
+"Truly magnificent: oh sure, let's keep opening fifty Chrome tabs on 4GB RAM, that will definitely make the browser lightning fast.",1,1,52.47,52.47,True
+"Honestly, i absolutely love how this antivirus software slows down my workstation to a complete crawl, it makes productivity so enjoyable.",1,0,95.02,4.98,False
+"In addition, today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.",0,0,95.2,4.8,True
+Truly magnificent: i love how my laptop fan sounds like a commercial Boeing 747 taking off.,1,0,94.9,5.1,False
+"In addition, the doctor carefully reviewed the blood test results and prescribed appropriate medication.",0,0,94.91,5.09,True
+Students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.,0,0,94.29,5.71,True
+It was noted that the online payment gateway processed the credit card transaction securely and instantly.,0,0,95.22,4.78,True
+"For your information, all attendees received a copy of the meeting minutes and action items via email.",0,0,94.7,5.3,True
+"Honestly, nothing says 'unmatched hotel comfort' quite like a mattress that feels exactly like a slab of solid concrete.",1,0,94.69,5.31,False
+The legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.,0,0,95.22,4.78,True
+"In addition, i had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.",0,0,95.21,4.79,True
+Truly magnificent: because who doesn't want to pay extra baggage fees right after the airline already lost two of my suitcases?,1,1,86.38,86.38,True
+Nothing says 'fast and reliable shipping' quite like taking three weeks to deliver a standard envelope across town.,1,0,91.03,8.97,False
+"In addition, students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.",0,0,93.96,6.04,True
+It was noted that i had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.,0,0,95.23,4.77,True
+"Honestly, what a delightful day to host an outdoor barbecue, especially with swarms of aggressive mosquitoes and sudden downpours!",1,0,94.63,5.37,False
+"Oh sure, let's ignore the strange knocking sound under the car hood, that will definitely make the engine run like new.",1,0,95.22,4.78,False
+"Truly magnificent: kudos to the online retailer for shipping one left shoe and one completely different sneaker, truly exceptional packing!",1,0,53.95,46.05,False
+"According to the official report, today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.",0,1,53.88,53.88,False
+"Honestly, oh look, another password policy requiring hieroglyphs and the name of my first pet.",1,0,93.34,6.66,False
+"Honestly, kudos to the audio technician for blasting ear-piercing feedback through the microphones, truly unforgettable sound design!",1,0,94.01,5.99,False
+"Oh wow, oh wonderful, another software update that moved every single button I use daily.",1,0,94.76,5.24,False
+Truly magnificent: because who doesn't want to re-iron an entire suit right after the airline crammed it into an overhead bin?,1,0,75.63,24.37,False
+"Truly magnificent: oh delightful, our client decided to request an entire redesign right when we were scheduled to deploy to production.",1,1,91.3,91.3,True
+"According to the official report, passengers traveling on the city metro system should note that trains are equipped with air conditioning and digital display maps.",0,0,95.18,4.82,True
+"Oh fantastic, our project manager decided to add five major deliverables right when the sprint was already finished.",1,0,94.88,5.12,False
+"Furthermore, students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.",0,0,93.91,6.09,True
+How wonderful! nothing like a flat tire in the pouring rain to make a Monday morning complete.,1,0,95.09,4.91,False
+"Furthermore, the restaurant served delicious authentic pasta with polite and attentive service.",0,0,94.72,5.28,True
+Truly magnificent: congratulations on fixing one CSS margin by completely disabling user checkout.,1,1,92.31,92.31,True
+Truly magnificent: i love paying a hefty convenience fee to print my own concert tickets at home.,1,0,93.97,6.03,False
+"Oh wow, i love how my laptop fan sounds like a commercial Boeing 747 taking off.",1,0,95.26,4.74,False
+I had a great experience with the neighborhood bakery; the staff was welcoming and cheerful and the bread was freshly baked.,0,0,95.26,4.74,True
+"How wonderful! kudos to the rideshare driver for driving in the opposite direction for twenty minutes, truly flawless navigation!",1,0,95.12,4.88,False
+It was noted that the new encryption protocol provides end-to-end data security which improves user privacy across the network.,0,0,95.12,4.88,True
+How wonderful! what an honor to receive a generic virtual thank-you badge after working sixty hours overtime.,1,0,94.95,5.05,False
+The mobile application update introduces automatic dark mode and bug fixes.,0,0,95.22,4.78,True
+"It was noted that the hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,93.89,6.11,True
+"According to the official report, the city museum offers free admission to students and seniors on the first Sunday of each month.",0,0,94.98,5.02,True
+Students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.,0,0,94.88,5.12,True
+"Honestly, i absolutely love how this cloud backup tool quietly deleted my newest presentation files, it makes working remotely so reliable.",1,0,94.16,5.84,False
+It was noted that the legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.,0,0,94.96,5.04,True
+"Furthermore, i had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.",0,0,95.26,4.74,True
+"According to the official report, students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.",0,0,94.51,5.49,True
+"Honestly, nothing says luxury dining like a lukewarm burger delivered 90 minutes late.",1,0,59.61,40.39,False
+Thanks for explaining my own research paper back to me in the simplest possible terms.,1,0,95.23,4.77,False
+Nothing says luxury dining like a lukewarm burger delivered 90 minutes late.,1,0,86.14,13.86,False
+"Oh wow, because who doesn't want to clean up water leaking from the ceiling right after getting home from a sixteen-hour double shift?",1,0,94.74,5.26,False
+"In addition, students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.",0,0,93.93,6.07,True
+It was noted that students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.,0,0,93.47,6.53,True
+"Honestly, superb parallel parking job, taking up three parking slots at the crowded mall.",1,0,66.37,33.63,False
+"For your information, i had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.",0,0,95.21,4.79,True
+"Truly magnificent: i absolutely love how my smartphone battery drops from 80% to 1% in four minutes, it makes staying connected so convenient.",1,0,88.9,11.1,False
+"Furthermore, today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.",0,0,95.19,4.81,True
+"Oh wow, nothing says 'zero hidden fees' quite like charging a twenty-dollar processing fee for an online ticket.",1,0,95.0,5.0,False
+"For your information, the finance department successfully completed the annual budgetary forecast for the upcoming fiscal year.",0,0,95.27,4.73,True
+"How wonderful! oh sure, let's drink four energy drinks at midnight, that will definitely help me wake up fresh and well-rested at 6 AM.",1,0,95.02,4.98,False
+Today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.,0,0,95.13,4.87,True
+"In addition, the software engineering team resolved the high database latency issue on time.",0,0,95.21,4.79,True
+"Truly magnificent: i absolutely love how this navigation app directs me straight into a massive traffic jam, it makes commuting so relaxing.",1,0,94.74,5.26,False
+"Oh wow, oh fantastic, our project manager decided to add five major deliverables right when the sprint was already finished.",1,0,94.88,5.12,False
+"Oh wow, oh look, another password policy requiring hieroglyphs and the name of my first pet.",1,0,94.79,5.21,False
+"Furthermore, the marketing department successfully launched the international digital campaign for the new mobile product.",0,0,95.28,4.72,True
+It was noted that the university campus library will remain open until midnight during exam week.,0,0,94.16,5.84,True
+"Honestly, oh wonderful, our team lead decided to reassign all my tasks right when I was about to submit them.",1,0,91.92,8.08,False
+"Honestly, because who doesn't want to re-iron an entire suit right after the airline crammed it into an overhead bin?",1,0,94.78,5.22,False
+"According to the official report, passengers traveling on the local feeder buses should note that connections to main subway terminals are guaranteed during morning hours.",0,0,94.7,5.3,True
+"In addition, the research department successfully analyzed user behavioral metrics for the application redesign.",0,0,95.25,4.75,True
+"Truly magnificent: what a great day to cook a nice homemade dinner, especially with finding out the stove burner stopped working mid-meal!",1,0,53.23,46.77,False
+"Honestly, oh sure, let's schedule a three-hour meeting without any agenda, that will definitely solve all organizational bottlenecks.",1,0,94.64,5.36,False
+How wonderful! i just adore when the fire alarm goes off during a cold shower.,1,0,95.27,4.73,False
+"For your information, passengers traveling on the local feeder buses should note that connections to main subway terminals are guaranteed during morning hours.",0,0,94.6,5.4,True
+"How wonderful! what a perfect day to drive to an important job interview, especially with a surprise puncture on the busiest highway!",1,0,95.22,4.78,False
+"Furthermore, i had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.",0,0,95.24,4.76,True
+"Honestly, i really appreciate when the waiter disappears for forty minutes after bringing the bill.",1,0,94.18,5.82,False
+Today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.,0,0,94.49,5.51,True
+"In addition, today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.",0,0,95.1,4.9,True
+Because who doesn't want to pay twenty dollars for airport parking right after waiting in a security queue for three hours?,1,0,94.85,5.15,False
+"In addition, today's forecast calls for intermittent light rain showers in the afternoon in the metropolitan area with temperatures around 19 degrees Celsius.",0,0,94.94,5.06,True
+"Oh wow, because who doesn't want to listen to automated elevator music for another hour right after being disconnected twice?",1,0,90.33,9.67,False
+How wonderful! nothing says 'guaranteed customer satisfaction' quite like having a strict no-refunds and no-returns policy on damaged goods.,1,0,93.65,6.35,False
+"Furthermore, the new battery management system provides balanced cell thermal regulation which improves long-term hardware lifespan.",0,0,94.6,5.4,True
+"Honestly, oh delightful, the train is only eighty minutes behind schedule today.",1,0,95.0,5.0,False
+It was noted that today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.,0,0,94.45,5.55,True
+Truly magnificent: because who doesn't want to argue with an automated bot that repeats the same FAQ right after spending thirty minutes troubleshooting?,1,1,93.93,93.93,True
+"According to the official report, i had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.",0,0,95.27,4.73,True
+"Honestly, i absolutely love how this food delivery app cancels my order after making me wait two hours, it makes ordering dinner so stress-free.",1,0,95.03,4.97,False
+"For your information, the doctor carefully reviewed the blood test results and prescribed appropriate medication.",0,0,95.08,4.92,True
+"For your information, today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.",0,0,95.13,4.87,True
+"In addition, i had a positive experience with the auto repair workshop; the staff was honest and transparent and the pricing was fair.",0,0,95.27,4.73,True
+"For your information, passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.",0,0,94.67,5.33,True
+Nothing says 'dedicated healthcare support' quite like making patients wait four hours past their appointment time.,1,0,92.95,7.05,False
+"Oh wow, i absolutely love how my smartphone battery drops from 80% to 1% in four minutes, it makes staying connected so convenient.",1,0,94.92,5.08,False
+How wonderful! i just love receiving promotional emails from websites I visited once five years ago.,1,0,95.07,4.93,False
+"Furthermore, the city museum offers free admission to students and seniors on the first Sunday of each month.",0,0,94.72,5.28,True
+"Furthermore, the online payment gateway processed the credit card transaction securely and instantly.",0,0,95.24,4.76,True
+How wonderful! i love waking up to twenty spam phone calls about car insurance I never asked for.,1,0,94.64,5.36,False
+How wonderful! nothing says 'world-class customer care' quite like disconnecting the support call right as I explain my issue.,1,0,91.78,8.22,False
+I love how my laptop fan sounds like a commercial Boeing 747 taking off.,1,0,95.22,4.78,False
+"According to the official report, today's forecast calls for a mild evening breeze following an afternoon shower in the central harbor with temperatures around 21 degrees Celsius.",0,0,95.2,4.8,True
+"Oh wow, i just love receiving promotional emails from websites I visited once five years ago.",1,0,95.03,4.97,False
+"How wonderful! oh perfect, my wireless headphones died thirty seconds into my run.",1,0,95.11,4.89,False
+"In addition, students enrolled in Linear Algebra must complete the problem set exercises by next Wednesday morning.",0,0,94.46,5.54,True
+"For your information, the human resources department successfully onboarded twenty new software engineers for the expansion program.",0,0,91.03,8.97,True
+"How wonderful! what a stellar day to enjoy my morning coffee, especially with spilling it straight onto my freshly ironed shirt!",1,0,95.12,4.88,False
+"In addition, the new battery management system provides balanced cell thermal regulation which improves long-term hardware lifespan.",0,0,94.54,5.46,True
+"Truly magnificent: i absolutely love how this smart television takes five minutes to open the settings menu, it makes entertainment so effortless.",1,0,94.05,5.95,False
+Today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.,0,1,84.78,84.78,False
+"Oh wow, oh wonderful, our team lead decided to reassign all my tasks right when I was about to submit them.",1,0,94.29,5.71,False
+"Furthermore, the package was carefully delivered to the front door within the promised delivery window.",0,0,94.17,5.83,True
+"Oh sure, let's add ten more managers to the team, that will definitely double our coding productivity.",1,0,95.24,4.76,False
+"Honestly, brilliant strategy, cutting the customer support budget to boost customer satisfaction scores.",1,0,95.01,4.99,False
+Truly magnificent: nothing says 'eco-friendly packaging' quite like wrapping a tiny plastic pen inside three layers of cardboard and bubble wrap.,1,0,82.64,17.36,False
+"Honestly, what a fantastic day to attend an outdoor wedding ceremony, especially with blistering 43-degree humidity with no shade!",1,0,94.93,5.07,False
+"Oh wow, because who doesn't want to pay twenty dollars for airport parking right after waiting in a security queue for three hours?",1,0,94.66,5.34,False
+"How wonderful! what a masterclass in management, blaming junior developers for executive delays.",1,0,95.11,4.89,False
+"Oh wow, i absolutely love how this navigation app directs me straight into a massive traffic jam, it makes commuting so relaxing.",1,0,95.25,4.75,False
+It was noted that students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.,0,0,90.13,9.87,True
+Our customer support team is available twenty-four hours a day to resolve inquiries.,0,0,94.58,5.42,True
+"Truly magnificent: oh sure, let's cut the software testing phase by half, that will definitely ensure a bug-free production release.",1,0,52.81,47.19,False
+"Honestly, thanks for the warm beer, really hits the spot on a freezing winter evening.",1,0,95.21,4.79,False
+"Furthermore, i had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.",0,0,95.21,4.79,True
+"Honestly, oh sure, let's leave the windows wide open during a sandstorm, that will definitely keep the living room pristine and clean.",1,0,94.92,5.08,False
+"How wonderful! thanks for the warm beer, really hits the spot on a freezing winter evening.",1,0,95.25,4.75,False
+"According to the official report, the mobile application update introduces automatic dark mode and bug fixes.",0,0,95.23,4.77,True
+"Truly magnificent: oh look, another password policy requiring hieroglyphs and the name of my first pet.",1,1,60.59,60.59,True
+"In addition, the morning weather forecast indicates clear skies and light winds throughout the day.",0,0,95.06,4.94,True
+"Oh wow, what a perfect day to drive to an important job interview, especially with a surprise puncture on the busiest highway!",1,0,95.23,4.77,False
+"In addition, passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.",0,0,94.8,5.2,True
+How wonderful! nothing says 'zero hidden fees' quite like charging a twenty-dollar processing fee for an online ticket.,1,0,95.07,4.93,False
+"In addition, today's forecast calls for warm sunshine and calm afternoon winds in the southern peninsula with temperatures around 28 degrees Celsius.",0,0,95.17,4.83,True
+"I absolutely love how this food delivery app cancels my order after making me wait two hours, it makes ordering dinner so stress-free.",1,0,95.12,4.88,False
+"How wonderful! kudos to the web developer for making every button on the landing page completely unclickable, truly visionary UX design!",1,0,72.98,27.02,False
+"For your information, the new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.",0,0,95.26,4.74,True
+"Truly magnificent: oh sure, let's postpone studying until the morning of the exam, that will definitely guarantee a top rank in the class.",1,1,83.16,83.16,True
+"Honestly, nothing says 'guaranteed customer satisfaction' quite like having a strict no-refunds and no-returns policy on damaged goods.",1,0,80.61,19.39,False
+"According to the official report, please remember to submit your monthly expense receipts before next Monday.",0,0,95.09,4.91,True
+It was noted that passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.,0,0,94.36,5.64,True
+"How wonderful! kudos to the courier company for tossing my fragile glass package directly over a six-foot gate, truly gentle handling!",1,0,95.02,4.98,False
+I had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.,0,0,95.2,4.8,True
+Students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.,0,0,94.79,5.21,True
+"For your information, our customer support team is available twenty-four hours a day to resolve inquiries.",0,0,94.83,5.17,True
+How wonderful! nothing says 'dedicated healthcare support' quite like making patients wait four hours past their appointment time.,1,0,93.69,6.31,False
+I had a seamless experience with the car rental agency; the staff was prompt and organized and vehicle pickup took under five minutes.,0,0,95.18,4.82,True
+"Oh wow, oh sure, let's skip reading the manual entirely, that will definitely make assembling this complex wardrobe easy.",1,0,95.02,4.98,False
+Truly magnificent: i really appreciate when the waiter disappears for forty minutes after bringing the bill.,1,0,84.72,15.28,False
+"According to the official report, i had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.",0,0,95.27,4.73,True
+"Furthermore, all new employees must complete the online cybersecurity safety training module.",0,0,95.24,4.76,True
+The conference keynote speaker delivered an inspiring lecture on renewable energy.,0,0,95.28,4.72,True
+Passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.,0,0,95.05,4.95,True
+"In addition, today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.",0,0,93.05,6.95,True
+"How wonderful! i absolutely love how this wireless mouse randomly disconnects every three minutes, it makes gaming so thrilling.",1,0,95.19,4.81,False
+How wonderful! i love how my laptop fan sounds like a commercial Boeing 747 taking off.,1,0,95.25,4.75,False
+"In addition, the construction crew wore hard hats and followed all safety protocols on site.",0,0,94.86,5.14,True
+"For your information, the online payment gateway processed the credit card transaction securely and instantly.",0,0,95.26,4.74,True
+"How wonderful! oh sure, let's skip reading the manual entirely, that will definitely make assembling this complex wardrobe easy.",1,0,95.14,4.86,False
+"Truly magnificent: thanks for the warm beer, really hits the spot on a freezing winter evening.",1,0,94.48,5.52,False
+"According to the official report, our customer support team is available twenty-four hours a day to resolve inquiries.",0,0,95.0,5.0,True
+"Oh wow, oh sure, let's leave the windows wide open during a sandstorm, that will definitely keep the living room pristine and clean.",1,0,95.1,4.9,False
+"In addition, the coffee shop offers a quiet study environment with fast and reliable Wi-Fi.",0,0,94.84,5.16,True
+"How wonderful! what a fantastic day to attend an outdoor wedding ceremony, especially with blistering 43-degree humidity with no shade!",1,0,94.98,5.02,False
+I had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.,0,0,95.27,4.73,True
+It was noted that students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.,0,0,93.31,6.69,True
+"Furthermore, the annual company financial audit was successfully completed without any discrepancies.",0,0,94.92,5.08,True
+Because who doesn't want to stand in a crowded train with broken air conditioning right after working all day in summer heat?,1,0,94.45,5.55,False
+Nothing says reliable public transit like buses that only show up when three come together.,1,0,55.88,44.12,False
+"Furthermore, the municipal department completed the road resurfacing project ahead of schedule.",0,0,95.2,4.8,True
+"Oh wow, what a splendid day to study for final semester exams, especially with the building power going out for ten straight hours!",1,0,91.63,8.37,False
+It was noted that i had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.,0,0,95.08,4.92,True
+Because who doesn't want to re-iron an entire suit right after the airline crammed it into an overhead bin?,1,0,95.17,4.83,False
+How wonderful! because who doesn't want to pay extra baggage fees right after the airline already lost two of my suitcases?,1,0,94.81,5.19,False
+Students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.,0,0,94.6,5.4,True
+"According to the official report, students enrolled in Cognitive Psychology must complete the research experiment survey by the scheduled deadline.",0,0,95.21,4.79,True
+"Oh brilliant, our department head decided to schedule an emergency meeting right when we were all walking out the door.",1,0,94.99,5.01,False
+"For your information, we are pleased to announce our latest product update with improved security features.",0,0,95.14,4.86,True
+"How wonderful! oh sure, let's add ten more managers to the team, that will definitely double our coding productivity.",1,0,95.21,4.79,False
+"Furthermore, students enrolled in Modern World History must complete the analytical term essay by the beginning of November.",0,0,94.81,5.19,True
+Truly magnificent: because who doesn't want to deal with six layers of bureaucratic paperwork right after trying to get a replacement identity card?,1,1,92.81,92.81,True
+"According to the official report, students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.",0,0,94.82,5.18,True
+"For your information, students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.",0,0,94.4,5.6,True
+"How wonderful! kudos to the municipal corporation for digging up the newly paved road three days after finishing it, truly outstanding planning!",1,0,94.81,5.19,False
+"According to the official report, the new content delivery network provides distributed regional edge nodes which improves video streaming performance.",0,0,95.15,4.85,True
+How wonderful! because who doesn't want to pay twenty dollars for airport parking right after waiting in a security queue for three hours?,1,0,94.95,5.05,False
+"For your information, students enrolled in Modern World History must complete the analytical term essay by the beginning of November.",0,0,94.92,5.08,True
+"Oh wow, oh brilliant, our department head decided to schedule an emergency meeting right when we were all walking out the door.",1,0,95.03,4.97,False
+"In addition, the new continuous integration pipeline provides automated unit and integration testing which improves release cycle stability.",0,0,95.08,4.92,True
+It was noted that today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.,0,0,95.02,4.98,True
+"How wonderful! brilliant strategy, cutting the customer support budget to boost customer satisfaction scores.",1,0,95.2,4.8,False
+How wonderful! nothing says 'fast and reliable shipping' quite like taking three weeks to deliver a standard envelope across town.,1,0,86.74,13.26,False
+"Oh wow, i really appreciate when the waiter disappears for forty minutes after bringing the bill.",1,0,94.98,5.02,False
+"How wonderful! what a glorious day to go for a pleasant morning jog, especially with heavy construction drilling right outside my window!",1,0,94.63,5.37,False
+"According to the official report, i had a satisfying experience with the dry cleaning service; the staff was efficient and thorough and all garments were ready on time.",0,0,95.23,4.77,True
+The new content delivery network provides distributed regional edge nodes which improves video streaming performance.,0,0,95.19,4.81,True
+"In addition, today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.",0,1,87.39,87.39,False
+Truly magnificent: because who doesn't want to listen to automated elevator music for another hour right after being disconnected twice?,1,1,93.97,93.97,True
+"Oh wow, what a wonderful day to enjoy a peaceful quiet evening, especially with endless loud car alarms echoing through the alley!",1,0,94.93,5.07,False
+The cybersecurity department successfully conducted an internal vulnerability assessment for enterprise data systems.,0,0,95.27,4.73,True
+"Honestly, what a perfect day to drive to an important job interview, especially with a surprise puncture on the busiest highway!",1,0,95.19,4.81,False
+"How wonderful! oh superb, our director decided to call an all-hands call right when lunch was just delivered.",1,0,94.38,5.62,False
+"Oh wow, because who doesn't want to fill out a forty-page feedback questionnaire right after getting denied an insurance claim?",1,0,95.08,4.92,False
+The human resources department successfully onboarded twenty new software engineers for the expansion program.,0,0,94.03,5.97,True
+"In addition, the quality assurance department successfully executed comprehensive automated test suites for the web platform.",0,0,95.07,4.93,True
+It was noted that passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.,0,0,93.62,6.38,True
+"How wonderful! what a great day to cook a nice homemade dinner, especially with finding out the stove burner stopped working mid-meal!",1,0,93.73,6.27,False
+Truly magnificent: nothing says 'dedicated healthcare support' quite like making patients wait four hours past their appointment time.,1,1,69.52,69.52,True
+It was noted that all new employees must complete the online cybersecurity safety training module.,0,0,95.18,4.82,True
+"According to the official report, today's forecast calls for overcast conditions with moderate humidity in the eastern district with temperatures around 24 degrees Celsius.",0,0,95.0,5.0,True
+Truly magnificent: because who doesn't want to fill out a forty-page feedback questionnaire right after getting denied an insurance claim?,1,1,73.5,73.5,True
+"In addition, the new machine learning pipeline provides faster batch inference throughput which improves data processing speeds.",0,0,95.16,4.84,True
+"According to the official report, the research department successfully analyzed user behavioral metrics for the application redesign.",0,0,95.27,4.73,True
+"Oh wow, i absolutely love how this banking application locks my debit card whenever I try to buy groceries, it makes paying bills so flawless.",1,0,95.27,4.73,False
+"According to the official report, the new microservices framework provides modular service isolation which improves fault tolerance during traffic spikes.",0,0,95.05,4.95,True
+"Oh charming, our VP decided to announce weekend overtime right when everyone had holiday travel plans.",1,0,92.11,7.89,False
+"In addition, the mobile application update introduces automatic dark mode and bug fixes.",0,0,95.16,4.84,True
+"For your information, today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.",0,0,94.32,5.68,True
+"Honestly, congratulations on fixing one CSS margin by completely disabling user checkout.",1,1,89.41,89.41,True
+"In addition, the laptop battery provides up to nine hours of continuous video playback on a full charge.",0,0,94.84,5.16,True
+"In addition, the finance department successfully completed the annual budgetary forecast for the upcoming fiscal year.",0,0,95.27,4.73,True
+"Furthermore, the supermarket stocks fresh organic fruits and vegetables from local farms every morning.",0,0,94.32,5.68,True
+"In addition, students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.",0,0,94.98,5.02,True
+"Furthermore, today's forecast calls for warm sunshine and calm afternoon winds in the southern peninsula with temperatures around 28 degrees Celsius.",0,0,95.18,4.82,True
+It was noted that the new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.,0,0,94.72,5.28,True
+It was noted that passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.,0,0,94.77,5.23,True
+"Honestly, nothing like a flat tire in the pouring rain to make a Monday morning complete.",1,0,93.96,6.04,False
+"In addition, today's forecast calls for overcast conditions with moderate humidity in the eastern district with temperatures around 24 degrees Celsius.",0,0,94.78,5.22,True
+Nothing says 'zero hidden fees' quite like charging a twenty-dollar processing fee for an online ticket.,1,0,95.15,4.85,False
+"Oh wow, oh great, high-speed fiber internet giving me a blazing 500 bytes per second.",1,0,92.48,7.52,False
+"Truly magnificent: i absolutely love how this food delivery app cancels my order after making me wait two hours, it makes ordering dinner so stress-free.",1,0,94.04,5.96,False
+"In addition, passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.",0,0,95.02,4.98,True
+The airline staff promptly assisted all passengers with their boarding luggage.,0,0,94.99,5.01,True
+We are pleased to announce our latest product update with improved security features.,0,0,95.14,4.86,True
+"For your information, today's forecast calls for intermittent light rain showers in the afternoon in the metropolitan area with temperatures around 19 degrees Celsius.",0,0,95.15,4.85,True
+Truly magnificent: because who doesn't want to pay twenty dollars for airport parking right after waiting in a security queue for three hours?,1,1,71.29,71.29,True
+How wonderful! great job scheduling our server maintenance right during Black Friday peak hours.,1,0,93.74,6.26,False
+"Furthermore, the construction crew wore hard hats and followed all safety protocols on site.",0,0,94.85,5.15,True
+"Truly magnificent: what a delightful day to host an outdoor barbecue, especially with swarms of aggressive mosquitoes and sudden downpours!",1,0,91.91,8.09,False
+"How wonderful! what a splendid day to study for final semester exams, especially with the building power going out for ten straight hours!",1,0,89.48,10.52,False
+"For your information, i had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.",0,0,95.27,4.73,True
+"According to the official report, the package was carefully delivered to the front door within the promised delivery window.",0,0,94.73,5.27,True
+"Oh wow, i absolutely love how this cloud backup tool quietly deleted my newest presentation files, it makes working remotely so reliable.",1,0,94.75,5.25,False
+"Honestly, because who doesn't want to re-enter all personal information twenty times right after the government portal crashed again?",1,0,63.25,36.75,False
+"Oh wow, oh splendid, our supervisor decided to assign another urgent priority right when my shift ended five minutes ago.",1,0,91.63,8.37,False
+"How wonderful! what a wonderful day to enjoy a peaceful quiet evening, especially with endless loud car alarms echoing through the alley!",1,0,94.77,5.23,False
+Because who doesn't want to re-enter all personal information twenty times right after the government portal crashed again?,1,0,84.69,15.31,False
+"In addition, the legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.",0,0,95.17,4.83,True
+"Honestly, oh sure, let's skip reading the manual entirely, that will definitely make assembling this complex wardrobe easy.",1,0,94.34,5.66,False
+"Furthermore, passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.",0,0,94.94,5.06,True
+"In addition, today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.",0,0,94.94,5.06,True
+"Furthermore, passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.",0,0,94.52,5.48,True
+"I absolutely love how this antivirus software slows down my workstation to a complete crawl, it makes productivity so enjoyable.",1,0,95.14,4.86,False
+"Honestly, kudos to the municipal corporation for digging up the newly paved road three days after finishing it, truly outstanding planning!",1,0,82.61,17.39,False
+"Honestly, what a splendid day to study for final semester exams, especially with the building power going out for ten straight hours!",1,0,64.36,35.64,False
+"Oh wow, i absolutely love how this wireless mouse randomly disconnects every three minutes, it makes gaming so thrilling.",1,0,95.2,4.8,False
+Truly magnificent: because who doesn't want to re-enter all personal information twenty times right after the government portal crashed again?,1,1,94.29,94.29,True
+"Furthermore, today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.",0,0,95.09,4.91,True
+"Furthermore, the new microservices framework provides modular service isolation which improves fault tolerance during traffic spikes.",0,0,95.05,4.95,True
+Truly magnificent: nothing says 'exceptional dining experience' quite like serving cold soup in a dirty bowl after an hour-long wait.,1,0,91.92,8.08,False
+"Oh sure, let's leave the windows wide open during a sandstorm, that will definitely keep the living room pristine and clean.",1,0,95.19,4.81,False
+"How wonderful! oh sure, let's schedule a three-hour meeting without any agenda, that will definitely solve all organizational bottlenecks.",1,0,95.16,4.84,False
+"For your information, i had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.",0,0,95.27,4.73,True
+How wonderful! congratulations on fixing one CSS margin by completely disabling user checkout.,1,1,61.82,61.82,True
+"For your information, students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.",0,0,95.13,4.87,True
+"Truly magnificent: oh great, high-speed fiber internet giving me a blazing 500 bytes per second.",1,1,89.05,89.05,True
+"What a splendid day to study for final semester exams, especially with the building power going out for ten straight hours!",1,0,94.14,5.86,False
+"Honestly, oh sure, let's postpone studying until the morning of the exam, that will definitely guarantee a top rank in the class.",1,0,94.41,5.59,False
+"Oh wow, nothing screams productivity like an hour-long meeting discussing our next meeting.",1,0,81.3,18.7,False
+Students enrolled in Linear Algebra must complete the problem set exercises by next Wednesday morning.,0,0,94.77,5.23,True
+"According to the official report, i had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.",0,0,95.27,4.73,True
+The new battery management system provides balanced cell thermal regulation which improves long-term hardware lifespan.,0,0,94.67,5.33,True
+The package was carefully delivered to the front door within the promised delivery window.,0,0,94.23,5.77,True
+"According to the official report, the finance department successfully completed the annual budgetary forecast for the upcoming fiscal year.",0,0,95.27,4.73,True
+How wonderful! brilliant idea to host an outdoor corporate retreat in 42-degree summer heat.,1,0,94.85,5.15,False
+"For your information, the new microservices framework provides modular service isolation which improves fault tolerance during traffic spikes.",0,0,95.01,4.99,True
+"Oh sure, let's postpone studying until the morning of the exam, that will definitely guarantee a top rank in the class.",1,0,95.13,4.87,False
+Truly magnificent: brilliant idea to host an outdoor corporate retreat in 42-degree summer heat.,1,0,92.99,7.01,False
+"Truly magnificent: kudos to the building maintenance team for shutting off the water supply with zero prior notice, truly impeccable coordination!",1,1,58.94,58.94,True
+"What a masterclass in management, blaming junior developers for executive delays.",1,0,95.21,4.79,False
+"Kudos to the airline crew for announcing a departure delay five minutes after scheduled takeoff, truly top-tier punctuality!",1,0,95.05,4.95,False
+"Oh wow, oh sure, let's postpone studying until the morning of the exam, that will definitely guarantee a top rank in the class.",1,0,94.92,5.08,False
+"How wonderful! oh wonderful, our team lead decided to reassign all my tasks right when I was about to submit them.",1,0,94.47,5.53,False
+"According to the official report, the construction crew wore hard hats and followed all safety protocols on site.",0,0,95.0,5.0,True
+"Oh wow, oh stellar, our tech lead decided to refactor the entire codebase right when we were preparing for a live demo.",1,0,95.14,4.86,False
+Passengers traveling on the cross-town bus route should note that new electric buses have been introduced to reduce emissions.,0,0,95.14,4.86,True
+"Furthermore, today's forecast calls for partly cloudy skies and occasional gentle breezes in the northern valley with temperatures around 22 degrees Celsius.",0,0,94.94,5.06,True
+"In addition, i had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.",0,0,95.26,4.74,True
+"I just love having to enter an OTP, a password, a fingerprint, and a captcha to view my bus pass.",1,0,95.19,4.81,False
+"Truly magnificent: kudos to the rideshare driver for driving in the opposite direction for twenty minutes, truly flawless navigation!",1,0,93.45,6.55,False
+"Honestly, nothing says 'premium airline service' quite like charging fifty dollars for a small carry-on bag and a lukewarm cup of water.",1,0,77.89,22.11,False
+"Oh wow, i absolutely love how this antivirus software slows down my workstation to a complete crawl, it makes productivity so enjoyable.",1,0,95.18,4.82,False
+"For your information, passengers traveling on the cross-town bus route should note that new electric buses have been introduced to reduce emissions.",0,0,95.07,4.93,True
+Truly magnificent: i truly enjoy when my flight is delayed four hours so I miss my connecting flight.,1,0,94.9,5.1,False
+"Oh look, another password policy requiring hieroglyphs and the name of my first pet.",1,0,94.94,5.06,False
+"According to the official report, i had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.",0,0,95.23,4.77,True
+"What a marvelous day to wear brand new white sneakers, especially with stepping directly into an ankle-deep puddle of mud!",1,0,95.16,4.84,False
+"Furthermore, the new continuous integration pipeline provides automated unit and integration testing which improves release cycle stability.",0,0,95.09,4.91,True
+"Furthermore, the research team published their findings in a reputable peer-reviewed scientific journal.",0,0,95.25,4.75,True
+Truly magnificent: nothing screams productivity like an hour-long meeting discussing our next meeting.,1,1,94.46,94.46,True
+"Honestly, i love how my laptop fan sounds like a commercial Boeing 747 taking off.",1,0,95.23,4.77,False
+"Oh wow, congratulations on fixing one CSS margin by completely disabling user checkout.",1,1,50.43,50.43,True
+"Oh wow, oh marvelous, our scrum master decided to schedule a two-hour retrospective right when we had hard release deadlines.",1,0,94.29,5.71,False
+"How wonderful! i absolutely love how this smart television takes five minutes to open the settings menu, it makes entertainment so effortless.",1,0,95.18,4.82,False
+"Oh wow, what a delightful day to host an outdoor barbecue, especially with swarms of aggressive mosquitoes and sudden downpours!",1,0,94.9,5.1,False
+"According to the official report, i had a great experience with the neighborhood bakery; the staff was welcoming and cheerful and the bread was freshly baked.",0,0,95.25,4.75,True
+It was noted that the quality assurance department successfully executed comprehensive automated test suites for the web platform.,0,0,94.75,5.25,True
+"Truly magnificent: oh superb, our director decided to call an all-hands call right when lunch was just delivered.",1,1,83.63,83.63,True
+"Furthermore, students enrolled in Environmental Science must complete the field observation report by the upcoming seminar.",0,0,94.98,5.02,True
+The new encryption protocol provides end-to-end data security which improves user privacy across the network.,0,0,95.24,4.76,True
+"According to the official report, the supermarket stocks fresh organic fruits and vegetables from local farms every morning.",0,0,94.83,5.17,True
+I just adore when the fire alarm goes off during a cold shower.,1,0,95.25,4.75,False
+"Kudos to the restaurant chef for substituting fresh garlic with burning charcoal, truly culinary innovation!",1,0,95.09,4.91,False
+Because who doesn't want to argue with an automated bot that repeats the same FAQ right after spending thirty minutes troubleshooting?,1,0,83.58,16.42,False
+"Furthermore, passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.",0,0,94.83,5.17,True
+"Oh wow, oh sure, let's ignore the strange knocking sound under the car hood, that will definitely make the engine run like new.",1,0,95.16,4.84,False
+Truly magnificent: thanks for explaining my own research paper back to me in the simplest possible terms.,1,0,94.01,5.99,False
+"For your information, the city museum offers free admission to students and seniors on the first Sunday of each month.",0,0,95.12,4.88,True
+"Thanks for the warm beer, really hits the spot on a freezing winter evening.",1,0,95.24,4.76,False
+"Honestly, kudos to the rideshare driver for driving in the opposite direction for twenty minutes, truly flawless navigation!",1,0,94.74,5.26,False
+How wonderful! nothing says 'unmatched hotel comfort' quite like a mattress that feels exactly like a slab of solid concrete.,1,0,95.05,4.95,False
+"In addition, our customer support team is available twenty-four hours a day to resolve inquiries.",0,0,94.79,5.21,True
+It was noted that the procurement department successfully negotiated volume discount agreements for hardware supplies.,0,0,94.21,5.79,True
+"Furthermore, i had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.",0,0,95.24,4.76,True
+"According to the official report, the train arrived exactly on schedule at platform number four this morning.",0,0,95.03,4.97,True
+It was noted that the marketing department successfully launched the international digital campaign for the new mobile product.,0,0,95.26,4.74,True
+"For your information, today's forecast calls for warm sunshine and calm afternoon winds in the southern peninsula with temperatures around 28 degrees Celsius.",0,0,95.25,4.75,True
+"For your information, the restaurant served delicious authentic pasta with polite and attentive service.",0,0,94.35,5.65,True
+"For your information, the morning weather forecast indicates clear skies and light winds throughout the day.",0,0,95.22,4.78,True
+"Oh wow, superb parallel parking job, taking up three parking slots at the crowded mall.",1,0,90.04,9.96,False
+"According to the official report, the coffee shop offers a quiet study environment with fast and reliable Wi-Fi.",0,0,95.07,4.93,True
+"Honestly, oh wonderful, another software update that moved every single button I use daily.",1,0,93.71,6.29,False
+"I absolutely love how this wireless mouse randomly disconnects every three minutes, it makes gaming so thrilling.",1,0,95.18,4.82,False
+"For your information, the annual company financial audit was successfully completed without any discrepancies.",0,0,94.71,5.29,True
+"According to the official report, the new machine learning pipeline provides faster batch inference throughput which improves data processing speeds.",0,0,95.17,4.83,True
+"For your information, passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.",0,0,94.96,5.04,True
+"Furthermore, the cybersecurity department successfully conducted an internal vulnerability assessment for enterprise data systems.",0,0,95.27,4.73,True
+"Oh superb, our director decided to call an all-hands call right when lunch was just delivered.",1,0,94.13,5.87,False
+"Honestly, oh sure, let's buy cheap knockoff phone chargers online, that will definitely safeguard our expensive battery life.",1,0,95.1,4.9,False
+Nothing says 'world-class customer care' quite like disconnecting the support call right as I explain my issue.,1,0,94.3,5.7,False
+"Honestly, oh perfect, my wireless headphones died thirty seconds into my run.",1,0,94.84,5.16,False
+"According to the official report, the online payment gateway processed the credit card transaction securely and instantly.",0,0,95.27,4.73,True
+"What a wonderful day to enjoy a peaceful quiet evening, especially with endless loud car alarms echoing through the alley!",1,0,95.11,4.89,False
+"Honestly, nothing says 'eco-friendly packaging' quite like wrapping a tiny plastic pen inside three layers of cardboard and bubble wrap.",1,0,91.62,8.38,False
+"Oh wow, kudos to the airline crew for announcing a departure delay five minutes after scheduled takeoff, truly top-tier punctuality!",1,0,94.67,5.33,False
+"Truly magnificent: i absolutely love how this streaming app buffers continuously during the final minute of the match, it makes watching sports so immersive.",1,0,94.48,5.52,False
+"Furthermore, today's forecast calls for overcast conditions with moderate humidity in the eastern district with temperatures around 24 degrees Celsius.",0,0,94.83,5.17,True
+"Truly magnificent: oh sure, let's schedule a three-hour meeting without any agenda, that will definitely solve all organizational bottlenecks.",1,1,85.94,85.94,True
+"Oh wow, kudos to the online retailer for shipping one left shoe and one completely different sneaker, truly exceptional packing!",1,0,93.56,6.44,False
+"Honestly, i absolutely love how this smart television takes five minutes to open the settings menu, it makes entertainment so effortless.",1,0,94.96,5.04,False
+"Kudos to the audio technician for blasting ear-piercing feedback through the microphones, truly unforgettable sound design!",1,0,95.0,5.0,False
+"Furthermore, our team achieved all key performance milestones for the third financial quarter.",0,0,95.22,4.78,True
+"Furthermore, students enrolled in Advanced Data Structures must complete the weekly programming assignments by Friday evening.",0,0,93.89,6.11,True
+"How wonderful! oh marvelous, our scrum master decided to schedule a two-hour retrospective right when we had hard release deadlines.",1,0,94.26,5.74,False
+"Truly magnificent: i absolutely love how this banking application locks my debit card whenever I try to buy groceries, it makes paying bills so flawless.",1,0,95.01,4.99,False
+"Furthermore, students enrolled in Cognitive Psychology must complete the research experiment survey by the scheduled deadline.",0,0,95.14,4.86,True
+"For your information, the hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,94.95,5.05,True
+"In addition, the new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.",0,0,95.03,4.97,True
+Nothing screams productivity like an hour-long meeting discussing our next meeting.,1,0,90.52,9.48,False
+How wonderful! i love how the weather forecast promised clear sunny skies right before a thunderstorm hit.,1,0,95.28,4.72,False
+"For your information, the new database cluster provides automated real-time failover support which improves overall platform uptime.",0,0,95.08,4.92,True
+"Oh wow, i absolutely love how this smart television takes five minutes to open the settings menu, it makes entertainment so effortless.",1,0,95.18,4.82,False
+"In addition, the new database cluster provides automated real-time failover support which improves overall platform uptime.",0,0,94.94,5.06,True
+"Truly magnificent: oh sure, let's drink four energy drinks at midnight, that will definitely help me wake up fresh and well-rested at 6 AM.",1,1,81.93,81.93,True
+"Honestly, nothing says 'exceptional dining experience' quite like serving cold soup in a dirty bowl after an hour-long wait.",1,0,94.18,5.82,False
+"Truly magnificent: oh wonderful, another software update that moved every single button I use daily.",1,0,52.36,47.64,False
+"Honestly, oh sure, let's keep opening fifty Chrome tabs on 4GB RAM, that will definitely make the browser lightning fast.",1,0,94.27,5.73,False
+"Truly magnificent: i absolutely love how this cloud backup tool quietly deleted my newest presentation files, it makes working remotely so reliable.",1,0,92.31,7.69,False
+"Truly magnificent: what a treat, watching 3 unskippable thirty-second ads before a five-second video clip.",1,0,94.8,5.2,False
+"Truly magnificent: oh delightful, the train is only eighty minutes behind schedule today.",1,0,88.31,11.69,False
+"Truly magnificent: what a glorious day to go for a pleasant morning jog, especially with heavy construction drilling right outside my window!",1,0,85.55,14.45,False
+"How wonderful! i absolutely love how this streaming app buffers continuously during the final minute of the match, it makes watching sports so immersive.",1,0,95.18,4.82,False
+"According to the official report, today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.",0,0,95.09,4.91,True
+It was noted that i had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.,0,0,95.15,4.85,True
+"What a lovely day to catch up on much-needed sleep, especially with the upstairs neighbors moving furniture at 3 AM!",1,0,93.29,6.71,False
+"In addition, i had a wonderful experience with the local dental clinic; the staff was gentle and professional and the procedure went smoothly.",0,0,95.27,4.73,True
+"Truly magnificent: oh charming, our VP decided to announce weekend overtime right when everyone had holiday travel plans.",1,1,92.43,92.43,True
+I had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.,0,0,95.25,4.75,True
+"Oh wow, kudos to the rideshare driver for driving in the opposite direction for twenty minutes, truly flawless navigation!",1,0,95.13,4.87,False
+"Oh wow, what a glorious day to go for a pleasant morning jog, especially with heavy construction drilling right outside my window!",1,0,94.57,5.43,False
+"Furthermore, the conference keynote speaker delivered an inspiring lecture on renewable energy.",0,0,95.27,4.73,True
+"Oh wow, kudos to the local telecom operator for providing zero cell signal inside the city center, truly a technological marvel!",1,0,95.11,4.89,False
+"In addition, all new employees must complete the online cybersecurity safety training module.",0,0,95.25,4.75,True
+The supermarket stocks fresh organic fruits and vegetables from local farms every morning.,0,0,94.0,6.0,True
+The laptop battery provides up to nine hours of continuous video playback on a full charge.,0,0,94.96,5.04,True
+"Truly magnificent: kudos to the local telecom operator for providing zero cell signal inside the city center, truly a technological marvel!",1,0,94.41,5.59,False
+The new continuous integration pipeline provides automated unit and integration testing which improves release cycle stability.,0,0,95.15,4.85,True
+"Oh wow, what a masterclass in management, blaming junior developers for executive delays.",1,0,94.79,5.21,False
+"How wonderful! oh great, high-speed fiber internet giving me a blazing 500 bytes per second.",1,0,93.26,6.74,False
+"For your information, the new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.",0,0,95.12,4.88,True
+"The hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,94.89,5.11,True
+"Oh sure, let's buy cheap knockoff phone chargers online, that will definitely safeguard our expensive battery life.",1,0,95.25,4.75,False
+It was noted that students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.,0,0,92.31,7.69,True
+It was noted that the mobile application update introduces automatic dark mode and bug fixes.,0,0,94.98,5.02,True
+"Oh magnificent, our manager decided to demand a status report right when the server was literally on fire.",1,0,95.07,4.93,False
+"How wonderful! kudos to the online retailer for shipping one left shoe and one completely different sneaker, truly exceptional packing!",1,0,94.28,5.72,False
+"According to the official report, students enrolled in Linear Algebra must complete the problem set exercises by next Wednesday morning.",0,0,94.92,5.08,True
+"How wonderful! i absolutely love how this new operating system crashes whenever I open two browser tabs, it makes multitasking so seamless.",1,0,95.04,4.96,False
+"Furthermore, today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.",0,1,90.17,90.17,False
+"In addition, passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.",0,0,94.52,5.48,True
+"According to the official report, the quality assurance department successfully executed comprehensive automated test suites for the web platform.",0,0,95.2,4.8,True
+"Oh wonderful, another software update that moved every single button I use daily.",1,0,94.68,5.32,False
+"According to the official report, the company offers comprehensive health insurance and retirement planning benefits.",0,0,95.25,4.75,True
+"Honestly, nothing says 'fast and reliable shipping' quite like taking three weeks to deliver a standard envelope across town.",1,1,74.58,74.58,True
+All new employees must complete the online cybersecurity safety training module.,0,0,95.26,4.74,True
+"In addition, passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.",0,0,93.64,6.36,True
+"How wonderful! oh sure, let's postpone studying until the morning of the exam, that will definitely guarantee a top rank in the class.",1,0,95.06,4.94,False
+"For your information, the research team published their findings in a reputable peer-reviewed scientific journal.",0,0,95.26,4.74,True
+"For your information, passengers traveling on the suburban railway line should note that platform renovations will take place on weekends only.",0,0,95.19,4.81,True
+How wonderful! nothing says 'exceptional dining experience' quite like serving cold soup in a dirty bowl after an hour-long wait.,1,0,94.93,5.07,False
+"According to the official report, passengers traveling on the light rail transit should note that contactless payment cards are accepted at all turnstile gates.",0,0,95.08,4.92,True
+"Furthermore, today's forecast calls for a mild evening breeze following an afternoon shower in the central harbor with temperatures around 21 degrees Celsius.",0,0,95.21,4.79,True
+"Oh wow, kudos to the building maintenance team for shutting off the water supply with zero prior notice, truly impeccable coordination!",1,0,92.12,7.88,False
+Because who doesn't want to pay extra baggage fees right after the airline already lost two of my suitcases?,1,0,94.9,5.1,False
+"For your information, students enrolled in Linear Algebra must complete the problem set exercises by next Wednesday morning.",0,0,94.67,5.33,True
+"For your information, our team achieved all key performance milestones for the third financial quarter.",0,0,95.21,4.79,True
+"In addition, the conference keynote speaker delivered an inspiring lecture on renewable energy.",0,0,95.27,4.73,True
+"Furthermore, the software engineering team resolved the high database latency issue on time.",0,0,95.19,4.81,True
+The construction crew wore hard hats and followed all safety protocols on site.,0,0,94.72,5.28,True
+"Oh wow, oh sure, let's drink four energy drinks at midnight, that will definitely help me wake up fresh and well-rested at 6 AM.",1,0,94.7,5.3,False
+Students enrolled in Cognitive Psychology must complete the research experiment survey by the scheduled deadline.,0,0,95.22,4.78,True
+"Honestly, nothing says 'customers come first' quite like leaving people on hold for seventy minutes with elevator music.",1,1,94.87,94.87,True
+Students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.,0,0,94.91,5.09,True
+"Honestly, i absolutely love how this wireless mouse randomly disconnects every three minutes, it makes gaming so thrilling.",1,0,95.09,4.91,False
+I really appreciate when the waiter disappears for forty minutes after bringing the bill.,1,0,94.24,5.76,False
+"Furthermore, all attendees received a copy of the meeting minutes and action items via email.",0,0,94.78,5.22,True
+"In addition, please remember to submit your monthly expense receipts before next Monday.",0,0,94.98,5.02,True
+"I absolutely love how this smart television takes five minutes to open the settings menu, it makes entertainment so effortless.",1,0,95.16,4.84,False
+Truly magnificent: nothing says 'world-class customer care' quite like disconnecting the support call right as I explain my issue.,1,1,90.49,90.49,True
+"In addition, i had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.",0,0,95.26,4.74,True
+"Oh wow, oh magnificent, our manager decided to demand a status report right when the server was literally on fire.",1,0,95.12,4.88,False
+Truly magnificent: because who doesn't want to stand in a crowded train with broken air conditioning right after working all day in summer heat?,1,1,89.3,89.3,True
+"Oh wow, what a fantastic day to attend an outdoor wedding ceremony, especially with blistering 43-degree humidity with no shade!",1,0,95.07,4.93,False
+"Honestly, oh stellar, our tech lead decided to refactor the entire codebase right when we were preparing for a live demo.",1,0,94.93,5.07,False
+"Truly magnificent: kudos to the audio technician for blasting ear-piercing feedback through the microphones, truly unforgettable sound design!",1,0,93.23,6.77,False
+Students enrolled in Modern World History must complete the analytical term essay by the beginning of November.,0,0,95.04,4.96,True
+"In addition, regular cardiovascular exercise and balanced nutrition contribute to long-term health.",0,0,95.25,4.75,True
+"Oh sure, let's drink four energy drinks at midnight, that will definitely help me wake up fresh and well-rested at 6 AM.",1,0,94.99,5.01,False
+"Furthermore, students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.",0,0,94.31,5.69,True
+"Honestly, i absolutely love how this new operating system crashes whenever I open two browser tabs, it makes multitasking so seamless.",1,0,94.83,5.17,False
+"Truly magnificent: i absolutely love how this antivirus software slows down my workstation to a complete crawl, it makes productivity so enjoyable.",1,0,94.3,5.7,False
+"According to the official report, passengers traveling on the regional ferry line should note that schedules may be adjusted in accordance with tidal conditions.",0,0,94.97,5.03,True
+"Furthermore, the new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.",0,0,95.21,4.79,True
+"Oh wow, because who doesn't want to deal with six layers of bureaucratic paperwork right after trying to get a replacement identity card?",1,0,94.5,5.5,False
+It was noted that the train arrived exactly on schedule at platform number four this morning.,0,0,94.46,5.54,True
+"According to the official report, the hotel room was spotless, quiet, and equipped with all essential amenities.",0,0,94.96,5.04,True
+"Honestly, kudos to the restaurant chef for substituting fresh garlic with burning charcoal, truly culinary innovation!",1,0,93.94,6.06,False
+"Furthermore, i had a great experience with the neighborhood bakery; the staff was welcoming and cheerful and the bread was freshly baked.",0,0,95.26,4.74,True
+"Oh wow, nothing says 'premium airline service' quite like charging fifty dollars for a small carry-on bag and a lukewarm cup of water.",1,0,88.67,11.33,False
+"Honestly, i absolutely love how this banking application locks my debit card whenever I try to buy groceries, it makes paying bills so flawless.",1,0,95.24,4.76,False
+"According to the official report, today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.",0,0,93.9,6.1,True
+The marketing department successfully launched the international digital campaign for the new mobile product.,0,0,95.29,4.71,True
+"For your information, the new electric bus fleet reduced commuter travel times across the metropolitan area.",0,0,95.26,4.74,True
+"According to the official report, the marketing department successfully launched the international digital campaign for the new mobile product.",0,0,95.28,4.72,True
+"Truly magnificent: kudos to the airline crew for announcing a departure delay five minutes after scheduled takeoff, truly top-tier punctuality!",1,0,92.43,7.57,False
+Today's forecast calls for intermittent light rain showers in the afternoon in the metropolitan area with temperatures around 19 degrees Celsius.,0,0,95.14,4.86,True
+"Oh wow, great job scheduling our server maintenance right during Black Friday peak hours.",1,0,93.8,6.2,False
+"Furthermore, the airline staff promptly assisted all passengers with their boarding luggage.",0,0,94.93,5.07,True
+The new machine learning pipeline provides faster batch inference throughput which improves data processing speeds.,0,0,95.19,4.81,True
+"Kudos to the local telecom operator for providing zero cell signal inside the city center, truly a technological marvel!",1,0,95.22,4.78,False
+"According to the official report, the human resources department successfully onboarded twenty new software engineers for the expansion program.",0,0,94.81,5.19,True
+"According to the official report, the operations department successfully optimized the warehouse logistics network for faster retail delivery.",0,0,95.2,4.8,True
+"According to the official report, passengers traveling on the cross-town bus route should note that new electric buses have been introduced to reduce emissions.",0,0,95.0,5.0,True
+"In addition, students enrolled in Business Ethics and Governance must complete the case study presentation by next Tuesday afternoon.",0,0,94.45,5.55,True
+"In addition, the new content delivery network provides distributed regional edge nodes which improves video streaming performance.",0,0,95.13,4.87,True
+"In addition, the human resources department successfully onboarded twenty new software engineers for the expansion program.",0,0,93.75,6.25,True
+"I absolutely love how this new operating system crashes whenever I open two browser tabs, it makes multitasking so seamless.",1,0,95.1,4.9,False
+"Oh wow, oh fantastic, another mandatory team bonding workshop on Saturday morning.",1,0,95.05,4.95,False
+"Oh wow, because who doesn't want to re-iron an entire suit right after the airline crammed it into an overhead bin?",1,0,95.1,4.9,False
+"In addition, the cybersecurity department successfully conducted an internal vulnerability assessment for enterprise data systems.",0,0,95.27,4.73,True
+"According to the official report, regular cardiovascular exercise and balanced nutrition contribute to long-term health.",0,0,95.24,4.76,True
+"For your information, the conference keynote speaker delivered an inspiring lecture on renewable energy.",0,0,95.28,4.72,True
+"Furthermore, today's forecast calls for bright sunny weather and clear visibility in the coastal plain with temperatures around 26 degrees Celsius.",0,0,95.21,4.79,True
+"Honestly, oh great, high-speed fiber internet giving me a blazing 500 bytes per second.",1,0,72.56,27.44,False
+It was noted that students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.,0,0,91.14,8.86,True
+"According to the official report, the customer success department successfully resolved over five hundred customer tickets for the quarterly evaluation.",0,0,94.93,5.07,True
+"How wonderful! oh sure, let's buy cheap knockoff phone chargers online, that will definitely safeguard our expensive battery life.",1,0,95.24,4.76,False
+"For your information, the quality assurance department successfully executed comprehensive automated test suites for the web platform.",0,0,94.82,5.18,True
+How wonderful! i love paying a hefty convenience fee to print my own concert tickets at home.,1,0,95.26,4.74,False
+"Honestly, oh splendid, our supervisor decided to assign another urgent priority right when my shift ended five minutes ago.",1,0,68.15,31.85,False
+"How wonderful! kudos to the local telecom operator for providing zero cell signal inside the city center, truly a technological marvel!",1,0,95.18,4.82,False
+Today's forecast calls for overcast conditions with moderate humidity in the eastern district with temperatures around 24 degrees Celsius.,0,0,95.06,4.94,True
+Nothing says 'unmatched hotel comfort' quite like a mattress that feels exactly like a slab of solid concrete.,1,0,95.13,4.87,False
+Today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.,0,0,95.21,4.79,True
+"For your information, today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.",0,1,83.08,83.08,False
+"Honestly, kudos to the building maintenance team for shutting off the water supply with zero prior notice, truly impeccable coordination!",1,0,78.28,21.72,False
+"How wonderful! oh splendid, our supervisor decided to assign another urgent priority right when my shift ended five minutes ago.",1,0,92.44,7.56,False
+"Oh wow, what a stellar day to enjoy my morning coffee, especially with spilling it straight onto my freshly ironed shirt!",1,0,95.15,4.85,False
+"Honestly, kudos to the web developer for making every button on the landing page completely unclickable, truly visionary UX design!",1,1,83.92,83.92,True
+Our team achieved all key performance milestones for the third financial quarter.,0,0,95.2,4.8,True
+"Honestly, nothing says 'dedicated healthcare support' quite like making patients wait four hours past their appointment time.",1,0,89.57,10.43,False
+I just love receiving promotional emails from websites I visited once five years ago.,1,0,94.9,5.1,False
+"For your information, the construction crew wore hard hats and followed all safety protocols on site.",0,0,94.91,5.09,True
+"Honestly, brilliant idea to host an outdoor corporate retreat in 42-degree summer heat.",1,0,91.01,8.99,False
+Because who doesn't want to deal with six layers of bureaucratic paperwork right after trying to get a replacement identity card?,1,0,94.77,5.23,False
+"How wonderful! kudos to the airline crew for announcing a departure delay five minutes after scheduled takeoff, truly top-tier punctuality!",1,0,94.79,5.21,False
+It was noted that the laptop battery provides up to nine hours of continuous video playback on a full charge.,0,0,94.35,5.65,True
+Truly magnificent: because who doesn't want to clean up water leaking from the ceiling right after getting home from a sixteen-hour double shift?,1,1,64.1,64.1,True
+"In addition, i had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.",0,0,95.24,4.76,True
+"I absolutely love how this banking application locks my debit card whenever I try to buy groceries, it makes paying bills so flawless.",1,0,95.25,4.75,False
+"According to the official report, the new fiber optic link provides high-bandwidth low-latency connectivity which improves cross-datacenter transfers.",0,0,95.1,4.9,True
+The municipal department completed the road resurfacing project ahead of schedule.,0,0,95.24,4.76,True
+"According to the official report, passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.",0,0,94.99,5.01,True
+"Honestly, what a marvelous day to wear brand new white sneakers, especially with stepping directly into an ankle-deep puddle of mud!",1,0,94.75,5.25,False
+"Truly magnificent: oh sure, let's buy cheap knockoff phone chargers online, that will definitely safeguard our expensive battery life.",1,0,79.17,20.83,False
+"Truly magnificent: what a perfect day to drive to an important job interview, especially with a surprise puncture on the busiest highway!",1,0,94.73,5.27,False
+"In addition, i had a great experience with the neighborhood bakery; the staff was welcoming and cheerful and the bread was freshly baked.",0,0,95.26,4.74,True
+It was noted that the restaurant served delicious authentic pasta with polite and attentive service.,0,0,93.16,6.84,True
+"Furthermore, the procurement department successfully negotiated volume discount agreements for hardware supplies.",0,0,94.53,5.47,True
+"According to the official report, the new electric bus fleet reduced commuter travel times across the metropolitan area.",0,0,95.21,4.79,True
+"Honestly, what a masterclass in management, blaming junior developers for executive delays.",1,0,94.23,5.77,False
+"In addition, passengers traveling on the local feeder buses should note that connections to main subway terminals are guaranteed during morning hours.",0,0,94.51,5.49,True
+Passengers traveling on the city metro system should note that trains are equipped with air conditioning and digital display maps.,0,0,95.21,4.79,True
+How wonderful! because who doesn't want to fill out a forty-page feedback questionnaire right after getting denied an insurance claim?,1,0,95.01,4.99,False
+"Oh wonderful, our team lead decided to reassign all my tasks right when I was about to submit them.",1,0,94.8,5.2,False
+Truly magnificent: what an honor to receive a generic virtual thank-you badge after working sixty hours overtime.,1,0,86.76,13.24,False
+I had a reassuring experience with the veterinary hospital; the staff was caring and thorough and our pet recovered very quickly.,0,0,95.26,4.74,True
+"According to the official report, the annual company financial audit was successfully completed without any discrepancies.",0,0,95.17,4.83,True
+"Truly magnificent: oh sure, let's ignore the strange knocking sound under the car hood, that will definitely make the engine run like new.",1,0,68.43,31.57,False
+"In addition, students enrolled in Modern World History must complete the analytical term essay by the beginning of November.",0,0,94.84,5.16,True
+"For your information, today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.",0,0,95.25,4.75,True
+"Furthermore, the new caching architecture provides instant memory lookups which improves page load latency for mobile users.",0,0,95.02,4.98,True
+"According to the official report, passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.",0,0,94.86,5.14,True
+"Oh wow, oh sure, let's add ten more managers to the team, that will definitely double our coding productivity.",1,0,95.17,4.83,False
+"Oh splendid, our supervisor decided to assign another urgent priority right when my shift ended five minutes ago.",1,0,93.11,6.89,False
+"In addition, i had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.",0,0,95.27,4.73,True
+"Honestly, nothing says 'zero hidden fees' quite like charging a twenty-dollar processing fee for an online ticket.",1,0,94.85,5.15,False
+Because who doesn't want to clean up water leaking from the ceiling right after getting home from a sixteen-hour double shift?,1,0,94.76,5.24,False
+"Honestly, oh sure, let's cut the software testing phase by half, that will definitely ensure a bug-free production release.",1,0,94.68,5.32,False
+"Furthermore, our customer support team is available twenty-four hours a day to resolve inquiries.",0,0,94.67,5.33,True
+The new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.,0,0,95.23,4.77,True
+"For your information, all new employees must complete the online cybersecurity safety training module.",0,0,95.27,4.73,True
+"Oh wow, kudos to the audio technician for blasting ear-piercing feedback through the microphones, truly unforgettable sound design!",1,0,94.81,5.19,False
+"Furthermore, the quality assurance department successfully executed comprehensive automated test suites for the web platform.",0,0,95.0,5.0,True
+The procurement department successfully negotiated volume discount agreements for hardware supplies.,0,0,94.87,5.13,True
+"Oh wow, because who doesn't want to stand in a crowded train with broken air conditioning right after working all day in summer heat?",1,0,93.73,6.27,False
+"I absolutely love how this cloud backup tool quietly deleted my newest presentation files, it makes working remotely so reliable.",1,0,95.05,4.95,False
+"Honestly, what a great day to cook a nice homemade dinner, especially with finding out the stove burner stopped working mid-meal!",1,0,91.25,8.75,False
+"How wonderful! superb parallel parking job, taking up three parking slots at the crowded mall.",1,0,93.82,6.18,False
+It was noted that today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.,0,0,94.74,5.26,True
+"Oh wow, nothing says 'world-class customer care' quite like disconnecting the support call right as I explain my issue.",1,0,92.41,7.59,False
+"Oh wow, i love paying a hefty convenience fee to print my own concert tickets at home.",1,0,95.26,4.74,False
+Nothing like a flat tire in the pouring rain to make a Monday morning complete.,1,0,95.18,4.82,False
+"In addition, the university campus library will remain open until midnight during exam week.",0,0,94.79,5.21,True
+"Furthermore, i had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.",0,0,95.27,4.73,True
+"According to the official report, the new battery management system provides balanced cell thermal regulation which improves long-term hardware lifespan.",0,0,94.78,5.22,True
+"Furthermore, the new machine learning pipeline provides faster batch inference throughput which improves data processing speeds.",0,0,95.16,4.84,True
+"In addition, i had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.",0,0,95.24,4.76,True
+"According to the official report, the laptop battery provides up to nine hours of continuous video playback on a full charge.",0,0,95.07,4.93,True
+"According to the official report, the airline staff promptly assisted all passengers with their boarding luggage.",0,0,95.08,4.92,True
+"Furthermore, the new database cluster provides automated real-time failover support which improves overall platform uptime.",0,0,94.96,5.04,True
+"How wonderful! oh brilliant, our department head decided to schedule an emergency meeting right when we were all walking out the door.",1,0,95.08,4.92,False
+"According to the official report, the conference keynote speaker delivered an inspiring lecture on renewable energy.",0,0,95.28,4.72,True
+Nothing says 'exceptional dining experience' quite like serving cold soup in a dirty bowl after an hour-long wait.,1,0,94.97,5.03,False
+"Furthermore, the operations department successfully optimized the warehouse logistics network for faster retail delivery.",0,0,95.14,4.86,True
+"Furthermore, the university campus library will remain open until midnight during exam week.",0,0,94.75,5.25,True
+The operations department successfully optimized the warehouse logistics network for faster retail delivery.,0,0,95.21,4.79,True
+"For your information, the software engineering team resolved the high database latency issue on time.",0,0,95.23,4.77,True
+"Honestly, i truly enjoy when my flight is delayed four hours so I miss my connecting flight.",1,0,95.19,4.81,False
+It was noted that i had a pleasant experience with the optometry clinic; the staff was punctual and polite and the eye examination was comprehensive.,0,0,95.21,4.79,True
+Truly magnificent: nothing says 'unmatched hotel comfort' quite like a mattress that feels exactly like a slab of solid concrete.,1,0,90.75,9.25,False
+"For your information, the operations department successfully optimized the warehouse logistics network for faster retail delivery.",0,0,95.19,4.81,True
+"Furthermore, the new content delivery network provides distributed regional edge nodes which improves video streaming performance.",0,0,95.15,4.85,True
+"Truly magnificent: superb parallel parking job, taking up three parking slots at the crowded mall.",1,0,52.32,47.68,False
+It was noted that students enrolled in Organic Chemistry Laboratory must complete the safety protocol evaluation by prior to the first lab session.,0,0,93.9,6.1,True
+"Honestly, kudos to the courier company for tossing my fragile glass package directly over a six-foot gate, truly gentle handling!",1,0,94.23,5.77,False
+"Oh marvelous, our scrum master decided to schedule a two-hour retrospective right when we had hard release deadlines.",1,0,94.57,5.43,False
+How wonderful! because who doesn't want to listen to automated elevator music for another hour right after being disconnected twice?,1,0,92.3,7.7,False
+"Honestly, what an honor to receive a generic virtual thank-you badge after working sixty hours overtime.",1,0,94.1,5.9,False
+"How wonderful! oh fantastic, our project manager decided to add five major deliverables right when the sprint was already finished.",1,0,94.75,5.25,False
+The new database cluster provides automated real-time failover support which improves overall platform uptime.,0,0,94.99,5.01,True
+"In addition, students enrolled in Cognitive Psychology must complete the research experiment survey by the scheduled deadline.",0,0,95.13,4.87,True
+It was noted that the new cloud computing infrastructure provides dynamic auto-scaling capabilities which improves resource efficiency.,0,0,95.1,4.9,True
+"For your information, please keep your seatbelts fastened while the aircraft taxiing to the gate.",0,0,94.32,5.68,True
+"According to the official report, students enrolled in Modern World History must complete the analytical term essay by the beginning of November.",0,0,94.93,5.07,True
+"For your information, the municipal department completed the road resurfacing project ahead of schedule.",0,0,95.25,4.75,True
+I love paying a hefty convenience fee to print my own concert tickets at home.,1,0,95.21,4.79,False
+"Furthermore, students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.",0,0,94.53,5.47,True
+"Truly magnificent: oh wonderful, our team lead decided to reassign all my tasks right when I was about to submit them.",1,1,91.9,91.9,True
+I had a delightful experience with the customer support helpline; the staff was patient and attentive and my billing issue was fixed promptly.,0,0,95.27,4.73,True
+"What a fantastic day to attend an outdoor wedding ceremony, especially with blistering 43-degree humidity with no shade!",1,0,95.18,4.82,False
+The software engineering team resolved the high database latency issue on time.,0,0,95.24,4.76,True
+"Furthermore, please keep your seatbelts fastened while the aircraft taxiing to the gate.",0,0,94.41,5.59,True
+The finance department successfully completed the annual budgetary forecast for the upcoming fiscal year.,0,0,95.27,4.73,True
+"According to the official report, today's forecast calls for fresh seasonal sunshine and gentle westerly breezes in the lakeside suburbs with temperatures around 23 degrees Celsius.",0,0,95.19,4.81,True
+Today's forecast calls for bright sunny weather and clear visibility in the coastal plain with temperatures around 26 degrees Celsius.,0,0,95.24,4.76,True
+"How wonderful! kudos to the audio technician for blasting ear-piercing feedback through the microphones, truly unforgettable sound design!",1,0,94.92,5.08,False
+"In addition, the marketing department successfully launched the international digital campaign for the new mobile product.",0,0,95.28,4.72,True
+"For your information, the cybersecurity department successfully conducted an internal vulnerability assessment for enterprise data systems.",0,0,95.28,4.72,True
+"According to the official report, today's forecast calls for intermittent light rain showers in the afternoon in the metropolitan area with temperatures around 19 degrees Celsius.",0,0,95.1,4.9,True
+I truly enjoy when my flight is delayed four hours so I miss my connecting flight.,1,0,95.23,4.77,False
+"For your information, the procurement department successfully negotiated volume discount agreements for hardware supplies.",0,0,92.99,7.01,True
+"How wonderful! kudos to the restaurant chef for substituting fresh garlic with burning charcoal, truly culinary innovation!",1,0,95.02,4.98,False
+"Furthermore, the company offers comprehensive health insurance and retirement planning benefits.",0,0,95.24,4.76,True
+The university campus library will remain open until midnight during exam week.,0,0,94.84,5.16,True
+"For your information, regular cardiovascular exercise and balanced nutrition contribute to long-term health.",0,0,95.26,4.74,True
+"For your information, the package was carefully delivered to the front door within the promised delivery window.",0,0,94.54,5.46,True
+"For your information, the customer success department successfully resolved over five hundred customer tickets for the quarterly evaluation.",0,0,89.69,10.31,True
+It was noted that passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.,0,0,92.45,7.55,True
+"According to the official report, the cybersecurity department successfully conducted an internal vulnerability assessment for enterprise data systems.",0,0,95.27,4.73,True
+"Oh wow, what a great day to cook a nice homemade dinner, especially with finding out the stove burner stopped working mid-meal!",1,0,94.27,5.73,False
+"Oh wow, thanks for explaining my own research paper back to me in the simplest possible terms.",1,0,95.23,4.77,False
+"In addition, i had a seamless experience with the car rental agency; the staff was prompt and organized and vehicle pickup took under five minutes.",0,0,95.2,4.8,True
+I had a refreshing experience with the community bookstore; the staff was knowledgeable and friendly and they recommended fantastic books.,0,0,95.24,4.76,True
+"For your information, i had a great experience with the neighborhood bakery; the staff was welcoming and cheerful and the bread was freshly baked.",0,0,95.26,4.74,True
+"For your information, students enrolled in Cognitive Psychology must complete the research experiment survey by the scheduled deadline.",0,0,95.2,4.8,True
+"For your information, passengers traveling on the airport shuttle service should note that pick-up points are located directly outside Terminal 2.",0,0,94.93,5.07,True
+"Oh wow, nothing says 'exceptional dining experience' quite like serving cold soup in a dirty bowl after an hour-long wait.",1,0,94.63,5.37,False
+"I absolutely love how this navigation app directs me straight into a massive traffic jam, it makes commuting so relaxing.",1,0,95.23,4.77,False
+"Oh wow, oh superb, our director decided to call an all-hands call right when lunch was just delivered.",1,0,94.35,5.65,False
+"Oh wow, i absolutely love how this food delivery app cancels my order after making me wait two hours, it makes ordering dinner so stress-free.",1,0,95.17,4.83,False
+What a brilliant move to replace our entire technical support team with a broken chatbot.,1,0,95.25,4.75,False
+"Truly magnificent: oh stellar, our tech lead decided to refactor the entire codebase right when we were preparing for a live demo.",1,0,89.47,10.53,False
+"For your information, the new encryption protocol provides end-to-end data security which improves user privacy across the network.",0,0,95.24,4.76,True
+"According to the official report, we are pleased to announce our latest product update with improved security features.",0,0,95.24,4.76,True
+"Oh sure, let's cut the software testing phase by half, that will definitely ensure a bug-free production release.",1,0,95.07,4.93,False
+How wonderful! because who doesn't want to clean up water leaking from the ceiling right after getting home from a sixteen-hour double shift?,1,0,94.87,5.13,False
+"For your information, passengers traveling on the light rail transit should note that contactless payment cards are accepted at all turnstile gates.",0,0,95.13,4.87,True
+"Furthermore, the new electric bus fleet reduced commuter travel times across the metropolitan area.",0,0,95.2,4.8,True
+The morning weather forecast indicates clear skies and light winds throughout the day.,0,0,95.09,4.91,True
+It was noted that the doctor carefully reviewed the blood test results and prescribed appropriate medication.,0,0,94.65,5.35,True
+"In addition, the train arrived exactly on schedule at platform number four this morning.",0,0,94.95,5.05,True
+"Oh fantastic, another mandatory team bonding workshop on Saturday morning.",1,0,94.8,5.2,False
+"Honestly, nothing says 'world-class customer care' quite like disconnecting the support call right as I explain my issue.",1,0,86.66,13.34,False
+"For your information, i had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.",0,0,95.25,4.75,True
+"How wonderful! what a treat, watching 3 unskippable thirty-second ads before a five-second video clip.",1,0,95.17,4.83,False
+"Furthermore, passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.",0,0,94.81,5.19,True
+"According to the official report, i had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.",0,0,95.24,4.76,True
+"Oh wow, kudos to the courier company for tossing my fragile glass package directly over a six-foot gate, truly gentle handling!",1,0,94.97,5.03,False
+"Honestly, oh magnificent, our manager decided to demand a status report right when the server was literally on fire.",1,0,94.74,5.26,False
+"For your information, today's forecast calls for cool autumn winds and crisp morning air in the highland foothills with temperatures around 15 degrees Celsius.",0,0,95.2,4.8,True
+"Truly magnificent: what a fantastic day to attend an outdoor wedding ceremony, especially with blistering 43-degree humidity with no shade!",1,0,94.15,5.85,False
+"For your information, the laptop battery provides up to nine hours of continuous video playback on a full charge.",0,0,94.89,5.11,True
+The research department successfully analyzed user behavioral metrics for the application redesign.,0,0,95.27,4.73,True
+Passengers traveling on the central express train should note that services run every fifteen minutes during peak commute hours.,0,0,94.87,5.13,True
+"Oh wow, nothing says 'fast and reliable shipping' quite like taking three weeks to deliver a standard envelope across town.",1,0,71.04,28.96,False
+"Furthermore, please remember to submit your monthly expense receipts before next Monday.",0,0,95.02,4.98,True
+Truly magnificent: what a brilliant move to replace our entire technical support team with a broken chatbot.,1,0,95.02,4.98,False
+"For your information, the supermarket stocks fresh organic fruits and vegetables from local farms every morning.",0,0,94.77,5.23,True
+"Oh wow, oh perfect, my wireless headphones died thirty seconds into my run.",1,0,95.08,4.92,False
+"Oh wow, because who doesn't want to pay extra baggage fees right after the airline already lost two of my suitcases?",1,0,94.59,5.41,False
+"How wonderful! i absolutely love how this navigation app directs me straight into a massive traffic jam, it makes commuting so relaxing.",1,0,95.21,4.79,False
+"Honestly, because who doesn't want to deal with six layers of bureaucratic paperwork right after trying to get a replacement identity card?",1,0,89.1,10.9,False
+"How wonderful! oh charming, our VP decided to announce weekend overtime right when everyone had holiday travel plans.",1,0,93.31,6.69,False
+"Furthermore, passengers traveling on the city metro system should note that trains are equipped with air conditioning and digital display maps.",0,0,95.17,4.83,True
+"For your information, students enrolled in Introduction to Macroeconomics must complete the midterm chapter readings by the end of the week.",0,0,94.07,5.93,True
+The doctor carefully reviewed the blood test results and prescribed appropriate medication.,0,0,94.91,5.09,True
+"For your information, the legal department successfully reviewed and finalized the commercial vendor contracts for the regional office.",0,0,95.19,4.81,True
+"For your information, the marketing department successfully launched the international digital campaign for the new mobile product.",0,0,95.29,4.71,True
+"What a great day to cook a nice homemade dinner, especially with finding out the stove burner stopped working mid-meal!",1,0,94.63,5.37,False
+"Oh wow, kudos to the web developer for making every button on the landing page completely unclickable, truly visionary UX design!",1,0,75.82,24.18,False
+"Oh wow, kudos to the municipal corporation for digging up the newly paved road three days after finishing it, truly outstanding planning!",1,0,93.89,6.11,False
+It was noted that today's forecast calls for clear night skies offering excellent stargazing in the desert observatory with temperatures around 14 degrees Celsius.,0,1,93.83,93.83,False
+"Truly magnificent: oh perfect, my wireless headphones died thirty seconds into my run.",1,0,59.77,40.23,False
+"Honestly, thanks for explaining my own research paper back to me in the simplest possible terms.",1,0,95.13,4.87,False
+"Honestly, oh sure, let's ignore the strange knocking sound under the car hood, that will definitely make the engine run like new.",1,0,95.06,4.94,False
+"In addition, the supermarket stocks fresh organic fruits and vegetables from local farms every morning.",0,0,94.49,5.51,True
+"Oh wow, oh sure, let's schedule a three-hour meeting without any agenda, that will definitely solve all organizational bottlenecks.",1,0,95.02,4.98,False
+"Truly magnificent: oh sure, let's add ten more managers to the team, that will definitely double our coding productivity.",1,0,64.0,36.0,False
+"What a glorious day to go for a pleasant morning jog, especially with heavy construction drilling right outside my window!",1,0,95.01,4.99,False
+"According to the official report, the morning weather forecast indicates clear skies and light winds throughout the day.",0,0,95.2,4.8,True
+"According to the official report, the university campus library will remain open until midnight during exam week.",0,0,95.0,5.0,True
+"In addition, we are pleased to announce our latest product update with improved security features.",0,0,95.17,4.83,True
+"According to the official report, passengers traveling on the high-speed rail corridor should note that complimentary high-speed Wi-Fi is available in all carriages.",0,0,94.97,5.03,True
+"For your information, the airline staff promptly assisted all passengers with their boarding luggage.",0,0,95.16,4.84,True
+"For your information, students enrolled in Software Engineering Practice must complete the team code review milestone by the sprint conclusion.",0,0,94.15,5.85,True
+"For your information, the company offers comprehensive health insurance and retirement planning benefits.",0,0,95.27,4.73,True
+"For your information, students enrolled in Artificial Intelligence Principles must complete the peer-reviewed project proposal by mid-semester.",0,0,94.69,5.31,True
+The train arrived exactly on schedule at platform number four this morning.,0,0,94.9,5.1,True
+The new electric bus fleet reduced commuter travel times across the metropolitan area.,0,0,95.24,4.76,True
+"In addition, the municipal department completed the road resurfacing project ahead of schedule.",0,0,95.22,4.78,True
+I love how the weather forecast promised clear sunny skies right before a thunderstorm hit.,1,0,95.27,4.73,False
+"Furthermore, the customer success department successfully resolved over five hundred customer tickets for the quarterly evaluation.",0,0,92.57,7.43,True
+The new caching architecture provides instant memory lookups which improves page load latency for mobile users.,0,0,95.08,4.92,True
+"Furthermore, passengers traveling on the light rail transit should note that contactless payment cards are accepted at all turnstile gates.",0,0,94.98,5.02,True
+"According to the official report, the software engineering team resolved the high database latency issue on time.",0,0,95.25,4.75,True
+"Honestly, i absolutely love how this streaming app buffers continuously during the final minute of the match, it makes watching sports so immersive.",1,0,95.08,4.92,False
+The quality assurance department successfully executed comprehensive automated test suites for the web platform.,0,0,95.2,4.8,True
+"Oh sure, let's skip reading the manual entirely, that will definitely make assembling this complex wardrobe easy.",1,0,95.2,4.8,False
+It was noted that i had a very pleasant experience with the hotel front desk team; the staff was extremely courteous and our room was ready early.,0,0,95.13,4.87,True
+"For your information, passengers traveling on the intercity coach service should note that seat reservations must be confirmed twenty-four hours in advance.",0,0,94.07,5.93,True
+"In addition, the research team published their findings in a reputable peer-reviewed scientific journal.",0,0,95.24,4.76,True
+It was noted that today's forecast calls for dry pleasant conditions suitable for hiking in the western mountain trail with temperatures around 18 degrees Celsius.,0,0,81.45,18.55,True
+"For your information, the university campus library will remain open until midnight during exam week.",0,0,94.78,5.22,True
+It was noted that please keep your seatbelts fastened while the aircraft taxiing to the gate.,0,0,67.09,32.91,True
+"Oh wow, thanks for the warm beer, really hits the spot on a freezing winter evening.",1,0,95.25,4.75,False
+"Honestly, because who doesn't want to stand in a crowded train with broken air conditioning right after working all day in summer heat?",1,0,85.3,14.7,False

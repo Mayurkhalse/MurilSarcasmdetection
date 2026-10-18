@@ -132,7 +132,7 @@ def evaluate(model, val_loader, criterion, device):
 
 def main():
     parser = argparse.ArgumentParser(description="Train MuRIL on 500k Sarcasm Dataset on GPU")
-    parser.add_argument("--data_path", type=str, default="sarcasm_500k.csv", help="Path to CSV dataset")
+    parser.add_argument("--data_path", type=str, default="500k_proper_data.csv", help="Path to CSV dataset (e.g. 500k_proper_data.csv)")
     parser.add_argument("--model_name", type=str, default="google/muril-base-cased", help="Base model identifier")
     parser.add_argument("--output_dir", type=str, default="500kdataTrained_muril_sarcasm", help="Directory to save model")
     parser.add_argument("--epochs", type=int, default=2, help="Number of training epochs")
@@ -148,16 +148,43 @@ def main():
 
     args = parser.parse_args()
 
+    # Path resolution
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.abspath(os.path.join(base_dir, ".."))
+
+    def resolve_dataset(p):
+        if os.path.isabs(p) and os.path.exists(p):
+            return p
+        candidates = [
+            p,
+            os.path.join(project_root, "datasets", p),
+            os.path.join(project_root, "datasets", os.path.basename(p)),
+            os.path.join(project_root, p),
+            os.path.join(base_dir, p)
+        ]
+        for c in candidates:
+            if os.path.exists(c):
+                return os.path.abspath(c)
+        return p
+
+    def resolve_output(p):
+        if os.path.isabs(p):
+            return p
+        return os.path.join(project_root, "models", p)
+
+    data_file = resolve_dataset(args.data_path)
+    args.output_dir = resolve_output(args.output_dir)
+
     # 1. Enforce GPU execution
     device = check_gpu_environment()
 
     # 2. Load dataset
-    print(f"📖 Loading dataset: {args.data_path}...")
-    if not os.path.exists(args.data_path):
-        print(f"❌ File not found: {args.data_path}")
+    print(f"📖 Loading dataset: {data_file}...")
+    if not os.path.exists(data_file):
+        print(f"❌ File not found: {data_file}")
         sys.exit(1)
 
-    df = pd.read_csv(args.data_path)
+    df = pd.read_csv(data_file)
     print(f" [+] Loaded {len(df):,} total rows.")
 
     if args.max_samples and args.max_samples < len(df):
